@@ -1,0 +1,11 @@
+C:\Users\Israel\source\repos\CopyFiles\CopyFiles\bin\Debug\netcoreapp3.1\CopyFiles.exe
+C:\Users\Israel\source\repos\CopyFiles\CopyFiles\bin\Debug\netcoreapp3.1\CopyFiles.deps.json
+C:\Users\Israel\source\repos\CopyFiles\CopyFiles\bin\Debug\netcoreapp3.1\CopyFiles.runtimeconfig.json
+C:\Users\Israel\source\repos\CopyFiles\CopyFiles\bin\Debug\netcoreapp3.1\CopyFiles.runtimeconfig.dev.json
+C:\Users\Israel\source\repos\CopyFiles\CopyFiles\bin\Debug\netcoreapp3.1\CopyFiles.dll
+C:\Users\Israel\source\repos\CopyFiles\CopyFiles\bin\Debug\netcoreapp3.1\CopyFiles.pdb
+C:\Users\Israel\source\repos\CopyFiles\CopyFiles\obj\Debug\netcoreapp3.1\CopyFiles.csprojAssemblyReference.cache
+C:\Users\Israel\source\repos\CopyFiles\CopyFiles\obj\Debug\netcoreapp3.1\CopyFiles.AssemblyInfoInputs.cache
+C:\Users\Israel\source\repos\CopyFiles\CopyFiles\obj\Debug\netcoreapp3.1\CopyFiles.AssemblyInfo.cs
+C:\Users\Israel\source\repos\CopyFiles\CopyFiles\obj\Debug\netcoreapp3.1\CopyFiles.dll
+C:\Users\Israel\source\repos\CopyFiles\CopyFiles\obj\Debug\netcoreapp3.1\CopyFiles.pdb

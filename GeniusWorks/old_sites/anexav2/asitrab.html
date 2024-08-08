@@ -1,0 +1,284 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>. . : : Secundaria y preparatoria Anexa 18 de Marzo - Salamanca, Gto. : : . .</title>
+
+<style type="text/css">
+
+/*Example CSS for demo ticker*/
+
+#ajaxticker1{
+width: 120px;
+height: 150px;
+border: 1px ridge black;
+padding: 5px;
+background-color: #FEEEB8;
+}
+
+#ajaxticker1 div{ /*IE6 bug fix when text is bold and fade effect (alpha filter) is enabled. Style inner DIV with same color as outer DIV*/
+background-color: #FEEEB8;
+}
+
+.someclass{ //class to apply to your scroller(s) if desired
+}
+
+</style>
+
+<script src="ajaxticker.js" type="text/javascript">
+
+/***********************************************
+* Ajax Ticker script (txt file source)- © Dynamic Drive (www.dynamicdrive.com)
+* This notice MUST stay intact for legal use
+* Visit http://www.dynamicdrive.com/ for this script and 100s more.
+***********************************************/
+
+</script>
+
+
+<link href="estilos/estiloAnexa.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+<!--
+.Estilo1 {color: #000000}
+body {
+	background-image: url(imagenes/bg.gif);
+}
+.Estilo3 {	margin-top: 10px;
+	padding-bottom: 5px;
+	margin-bottom: 0px;
+	margin-left: 20px;
+	margin-right: 20px;
+	font-size: 11px;
+	color: #000000;
+	font-family: Tahoma, Verdana, Arial;
+	font-weight: bold;
+}
+.Estilo10 {	font-family: Tahoma, Verdana, Arial;
+	font-size: 11px;
+	font-weight: bold;
+}
+.Estilo9 {margin-top: 10px; padding-bottom: 5px; margin-bottom: 0px; margin-left: 20px; margin-right: 20px; font-size: 14px; color: #FF6600; font-family: Tahoma, Verdana, Arial; font-weight: bold; }
+.Estilo7 {font-size: 12px}
+.Estilo8 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+-->
+</style>
+</head>
+
+<body topmargin="0" bottommargin="0">
+<table width="840" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="17" background="imagenes/bg_left.gif">&nbsp;</td>
+    <td width="800"><table width="800" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr align="center" valign="middle" bgcolor="#EFB22D">
+        <td height="20" colspan="2" class="navega"><div align="center">
+            <div align="center"><a href="index.html" class="navega">Inicio</a></div>
+        </div></td>
+        <td width="177" height="20" class="navega"><div align="center"><a href="mapa.html" class="navega">Mapa del sitio </a></div></td>
+        <td width="340" height="20" class="navega"><div align="center"><a href="http://www.cunbajio.edu.mx" class="navega">Centro Universitario de Negocios del Baj&iacute;o</a></div></td>
+        <td width="106" height="20" class="navega"><div align="center"><img src="imagenes/sobre.png" width="20" height="10" /> <a href="mailto:informes@anexa.edu.mx" class="navega">Contacto</a></div></td>
+      </tr>
+      <tr background="imagenes/banner_anexa2.jpg">
+        <td height="133" colspan="5" align="right"><img src="imagenes/banner_anexa2.png" width="800" height="133" /></td>
+      </tr>
+      <tr bgcolor="#EFB22D">
+        <td height="20" colspan="5" align="right"><div align="center">MENU</div></td>
+      </tr>
+      <tr>
+        <td colspan="5" bgcolor="#932728">
+ </td>
+        </tr>
+
+      <tr>
+        <td align="center" valign="top" bgcolor="#FFFFFF">
+          <table width="100%"  border="0" cellspacing="0" cellpadding="0">
+            <tr>
+              <td width="160" align="center" valign="middle">&nbsp;</td>
+            </tr>
+            <tr>
+              <td width="160" align="center" valign="middle"><a href="horarios.html"><img src="imagenes/btnCalendariosAnexa.png" width="126" height="60" border="0" /></a></td>
+            </tr>
+            <tr>
+              <td width="160" align="center" valign="middle"><a href="galerias.html"><img src="imagenes/btnGaleriasAnexa.png" width="126" height="60" border="0" /></a></td>
+            </tr>
+            <tr>
+              <td width="160" align="center" valign="middle"><a href="descargas.html"><img src="imagenes/btnDescargasAnexa.png" width="126" height="60" border="0" /></a></td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle"><a href="blogs.html"><img src="imagenes/btnBlogsAnexa.png" width="126" height="60" border="0" /></a></td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle"><a href="http://www.anexa18.edu.mx" target="_blank"><img src="imagenes/btnPortalAnexa.png" width="132" height="60" border="0" /></a></td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">&nbsp;</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle"><table width="125"  border="0" cellspacing="0" cellpadding="0">
+                <tr>
+                  <td bgcolor="#EFB22D"><div align="center" class="Estilo1"><span class="navegafooter">AVISOS</span></div></td>
+                </tr>
+                <tr>
+                  <td><p class="Estilo1"><script type="text/javascript">
+				      var xmlfile="tickercontent.txt" //path to ticker txt file on your server.
+                      //ajax_ticker(xmlfile, divId, divClass, delay, optionalfadeornot)
+					  new ajax_ticker(xmlfile, "ajaxticker1", "avisos", 3500, "fade")
+					  </script></p>
+                    </td>
+                </tr>
+              </table></td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">&nbsp;</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">&nbsp;</td>
+            </tr>
+          </table>          </td>
+        <td colspan="4" align="center" valign="top" bgcolor="#FFFFFF"><table width="100%" border="0" align="center" cellpadding="5" cellspacing="0">
+          <tr>
+            <td height="10" colspan="3">&nbsp;</td>
+          </tr>
+          <tr bgcolor="#057EC4">
+            <td colspan="3"><p class="title Estilo7 Estilo8">SECUNDARIA</p></td>
+          </tr>
+          <tr bgcolor="#EFB22D">
+            <td height="3" colspan="3"><img src="images/px1.gif" width="1" height="1" alt="" border="0" /></td>
+            </tr>
+          <tr>
+            <td colspan="3"><p align="justify" class="Estilo9">Asi trabajamos </p>
+                <p align="justify" class="Estilo3"><img src="imagenes/foto10.gif" width="165" height="125" hspace="3" align="right" />Nuestra instituci&oacute;n cumple con los programas que indica la Secretar&iacute;a de Educaci&oacute;n, los cuales, han sido enriquecidos, con el fin de que el alumno egresado de secundaria, cuente con los medios necesarios para ingresar a cualquier escuela de nivel medio superior, as&iacute; mismo, nuestra secundaria pone especial cuidado en la formaci&oacute;n del alumno.</p>
+                <p align="justify" class="Estilo3">El trabajo en nuestra instituci&oacute;n lo conforman alumnos, padres de familia y escuela, mediante una educaci&oacute;n proactiva, la cual permite establecer v&iacute;nculos reales que conlleven a una educaci&oacute;n total para la correcta formaci&oacute;n de los alumnos.</p>
+                <p align="justify" class="Estilo3">&nbsp;</p></td>
+          </tr>
+          <tr>
+            <td colspan="3"><p align="justify" class="Estilo9">&Aacute;reas de formaci&oacute;n</p>
+                <p align="justify" class="Estilo10">Nuestra instituci&oacute;n trabaja de manera especial, fomentando la formaci&oacute;n de nuestros alumnos en diversas &aacute;reas.</p></td>
+          </tr>
+          <tr>
+            <td colspan="3" background="images/puntoh.jpg"><div align="justify"></div></td>
+          </tr>
+          <tr>
+            <td width="50%" valign="top"><p align="justify" class="Estilo9 Estilo7">&Aacute;rea B&aacute;sica</p>
+                <p align="justify" class="Estilo10"><img src="imagenes/foto06.gif" width="120" height="90" hspace="3" align="left" />Es la conformada por las materias de Matem&aacute;ticas, Espa&ntilde;ol, Formaci&oacute;n C&iacute;vica y &Eacute;tica, Historia, Geograf&iacute;a, e Ingl&eacute;s, donde el alumno aprende los conocimientos generales de las materias b&aacute;sicas de su formaci&oacute;n educativa. </p>
+                <p align="justify" class="Estilo10">&nbsp;</p></td>
+            <td valign="top" background="images/punto.jpg"><div align="justify"></div></td>
+            <td width="50%" valign="top"><p align="justify" class="Estilo9">&Aacute;rea Cient&iacute;fica </p>
+                <p align="justify" class="Estilo10"><img src="imagenes/foto09.gif" width="120" height="90" hspace="3" align="left" />Cuidamos que los conocimientos de las &aacute;reas como F&iacute;sica, Qu&iacute;mica y Biolog&iacute;a, no solo sean te&oacute;ricas, sino que se conozca el sentido pr&aacute;ctico realizando trabajos en los laboratorios.De esta manera se despierta en el alumno el inter&eacute;s por la investigaci&oacute;n.</p>
+                </td>
+          </tr>
+          <tr>
+            <td width="50%" valign="top"><p align="justify" class="Estilo9">&Aacute;rea Tecnol&oacute;gica</p>
+                <p align="justify" class="Estilo10"><img src="imagenes/foto05.gif" width="120" height="90" hspace="3" align="right" />La tecnolog&iacute;a es una herramienta fundamental hoy en d&iacute;a, por esta raz&oacute;n, todos nuestros alumnos conocen y emplean a fondo elementos como:</p>
+                <div align="justify">
+                  <ul>
+                      <li class="Estilo10"> Computadoras multimedia</li>
+                      <li class="Estilo10"> Internet </li>
+                      <li class="Estilo10"> Programas novedosos</li>
+                      <li class="Estilo10"> Equipos perif&eacute;ricos (impresoras, scanners, c&aacute;maras web, grabador de CD's, lectores de DVD, entre otros).</li>
+                  </ul>
+                </div>                <p align="justify">&nbsp;</p></td>
+            <td width="0" valign="top" background="images/punto.jpg"><div align="justify"></div></td>
+            <td width="50%" valign="top"><p align="justify" class="Estilo9">&Aacute;rea Formativa </p>
+                <p align="justify" class="Estilo10"><img src="imagenes/foto08.gif" width="165" height="125" hspace="3" align="right" />Dedicamos el tiempo y la importancia requerida al desarrollo f&iacute;sico y se practican deportes como: f&uacute;tbol, voleibol, b&aacute;squetbol y atletismo. Y en Expresi&oacute;n Art&iacute;stica se desarrollan las &aacute;reas de pintura, dibujo, danza y teatro. En la escuela contamos con equipos de:</p>
+                <div align="justify">
+                  <ul>
+                      <li class="Estilo10">B&aacute;squetbol</li>
+                      <li class="Estilo10">F&uacute;tbol</li>
+                      <li class="Estilo10">Porristas</li>
+                  </ul>
+                </div></td>
+          </tr>
+          <tr>
+            <td colspan="3" valign="top"><p align="justify" class="Estilo9">&Aacute;rea de Negocios </p>
+                <p class="Estilo10"><img src="imagenes/foto17.gif" width="165" height="125" hspace="3" align="left" />Procuramos que nuestros j&oacute;venes tengan oportunidad formal de iniciar su primer empresa de manera creativa, a trav&eacute;s de un proceso propositivo de acuerdo a nuestro programa:</p>
+                <p> <span class="Estilo10">&quot;Tu Puedes Crear&quot;</span></p></td>
+          </tr>
+        </table>
+          <p>&nbsp;</p>
+          <table width="100%" border="0" align="center" cellpadding="5" cellspacing="0">
+            <tr bgcolor="#057EC4">
+              <td colspan="3" height="25"><p class="title footer Estilo7">PREPARATORIA</p></td>
+            </tr>
+            <tr bgcolor="#EFB22D">
+              <td height="3" colspan="3"><img src="images/px1.gif" width="1" height="1" alt="" border="0" /></td>
+              </tr>
+            <tr>
+              <td colspan="3"><p align="justify" class="Estilo9">Asi trabajamos </p>
+                  <p align="justify" class="Estilo3"><img src="imagenes/foto02.gif" width="165" height="125" hspace="3" align="right" />Nuestra instituci&oacute;n ha desarrollado sus propios planes de estudios de acuerdo a lo que requieren nuestros alumnos en la vida personal y profesional, prepar&aacute;ndolos as&iacute;, para que tengan los elementos suficientes para que puedan ingresar a cualquier instituci&oacute;n de nivel superior de nuestro pa&iacute;s.</p>
+                  <p align="justify" class="Estilo3">En nuestra instituci&oacute;n nos interesa el futuro de nuestros alumnos, por lo cual nos comprometemos para que su formaci&oacute;n sea completa.</p>
+                  <p align="justify" class="Estilo3">&nbsp;</p></td>
+            </tr>
+            <tr>
+              <td colspan="3"><p align="justify" class="Estilo9">Estudios</p>
+                  <p align="justify" class="Estilo10"><img src="imagenes/foto16.gif" width="125" height="165" hspace="5" align="left" />Los estudios en la Preparatoria Anexa est&aacute;n conformados por seis semestres, los primeros cuatro son tronco com&uacute;n, y en estos se llevan las materias b&aacute;sicas de formaci&oacute;n general. Esto nos ayuda a formar los cimientos del futuro egresado.</p>
+                  <p align="justify" class="Estilo10">Los &uacute;ltimos dos semestres son de especialidad, donde el alumno elige el &aacute;rea en el cual se desarrollar&aacute; posteriormente en el nivel superior, contamos con bachilleratos de:</p>
+                  <ul>
+                    <ul>
+                      <ul>
+                        <ul>
+                          <ul>
+                            <ul>
+                              <ul>
+                                <ul>
+                                  <li class="Estilo10">Humanidades</li>
+                                  <li class="Estilo10"> F&iacute;sico-Matem&aacute;tico </li>
+                                  <li class="Estilo10">Econ&oacute;mico-Administrativo</li>
+                                </ul>
+                              </ul>
+                            </ul>
+                          </ul>
+                        </ul>
+                      </ul>
+                    </ul>
+                  </ul>
+                  <p align="justify" class="Estilo9">&nbsp;</p>
+                  <p align="justify" class="Estilo9">Actividades</p>
+                  <p align="justify" class="Estilo10">Dentro de nuestra instituci&oacute;n, podr&aacute;s participar en las diferentes actividades y equipos deportivos, pensados especialmente para ti, como un complemento a tu formaci&oacute;n. Algunos de estos son:</p></td>
+            </tr>
+            <tr>
+              <td colspan="3" background="images/puntoh.jpg">&nbsp;</td>
+            </tr>
+            <tr>
+              <td width="53%" valign="top"><p align="justify" class="Estilo10"><img src="imagenes/foto20.gif" width="165" height="125" align="right" />Actividades</p>
+                  <p align="justify" class="Estilo10">- Grupo de teatro <br />
+        - Actividades Culturales <br />
+        - Actividades Deportivas <br />
+        - Servicio Social <br />
+        - Viajes de Pr&aacute;cticas</p>
+                  <p align="justify" class="t01">&nbsp;</p></td>
+              <td width="1%" valign="top" background="images/punto.jpg">&nbsp;</td>
+              <td width="46%" valign="top"><p align="justify" class="Estilo10"><img src="imagenes/foto18.gif" width="165" height="125" align="right" />Equipos</p>
+                  <p align="justify" class="Estilo10">- F&uacute;tbol <br />
+        - B&aacute;squetbol <br />
+        - Voleibol <br />
+        - Porristas <br />
+        - Hockey</p>
+                  <p align="justify" class="t01">&nbsp;</p></td>
+            </tr>
+            <tr>
+              <td colspan="3" valign="top"><p align="justify" class="t01">&nbsp;</p></td>
+            </tr>
+            <tr>
+              <td height="28" colspan="3" background="images/t_fon.gif"><img src="images/px1.gif" width="1" height="1" alt="" border="0" /></td>
+            </tr>
+          </table>          <p>&nbsp;</p></td>
+      </tr>
+      <tr>
+        <td colspan="5" align="center" valign="top" bgcolor="#FFFFFF" class="navega"><img src="imagenes/bottomBanner.png" width="800" height="135" /></td>
+        </tr>
+    </table></td>
+    <td width="17" background="imagenes/bg_right.gif">&nbsp;</td>
+  </tr>
+  <tr bgcolor="#0047BA">
+    <td height="50" colspan="3" align="center" valign="middle"><div align="center" class="footer">
+      <p>&nbsp;</p>
+    </div></td>
+  </tr>
+</table>
+<p>&nbsp;</p>
+</body>
+</html>

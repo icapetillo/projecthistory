@@ -1,0 +1,37 @@
+# This file is created by JAlbum. It sets custom file filtering and ordering for this image directory.
+# Each row indicate a file and it's order. Files not listed here are added to the end of the album
+# Rows beginning with "-" indicate excluded files.
+# Rows containing a tab character indicate links, where the text before the tab is the logical file name
+# and the path to the right is the target path.
+# Note: This file allows absolute paths to files and directories in other locations and thereby
+# allows you to compile albums consisting of files from several different locations.
+
+fin de cursos 191.jpg	D:\Mis documentos\Descargas\Varios\FOTOS MAPI\Fin de cursos 2009\Galería 3\fin de cursos 191.jpg
+fin de cursos 192.jpg	D:\Mis documentos\Descargas\Varios\FOTOS MAPI\Fin de cursos 2009\Galería 3\fin de cursos 192.jpg
+fin de cursos 193.jpg	D:\Mis documentos\Descargas\Varios\FOTOS MAPI\Fin de cursos 2009\Galería 3\fin de cursos 193.jpg
+fin de cursos 194.jpg	D:\Mis documentos\Descargas\Varios\FOTOS MAPI\Fin de cursos 2009\Galería 3\fin de cursos 194.jpg
+fin de cursos 195.jpg	D:\Mis documentos\Descargas\Varios\FOTOS MAPI\Fin de cursos 2009\Galería 3\fin de cursos 195.jpg
+fin de cursos 196.jpg	D:\Mis documentos\Descargas\Varios\FOTOS MAPI\Fin de cursos 2009\Galería 3\fin de cursos 196.jpg
+fin de cursos 198.jpg	D:\Mis documentos\Descargas\Varios\FOTOS MAPI\Fin de cursos 2009\Galería 3\fin de cursos 198.jpg
+fin de cursos 200.jpg	D:\Mis documentos\Descargas\Varios\FOTOS MAPI\Fin de cursos 2009\Galería 3\fin de cursos 200.jpg
+fin de cursos 201.jpg	D:\Mis documentos\Descargas\Varios\FOTOS MAPI\Fin de cursos 2009\Galería 3\fin de cursos 201.jpg
+fin de cursos 202.jpg	D:\Mis documentos\Descargas\Varios\FOTOS MAPI\Fin de cursos 2009\Galería 3\fin de cursos 202.jpg
+fin de cursos 203.jpg	D:\Mis documentos\Descargas\Varios\FOTOS MAPI\Fin de cursos 2009\Galería 3\fin de cursos 203.jpg
+fin de cursos 204.jpg	D:\Mis documentos\Descargas\Varios\FOTOS MAPI\Fin de cursos 2009\Galería 3\fin de cursos 204.jpg
+fin de cursos 206.jpg	D:\Mis documentos\Descargas\Varios\FOTOS MAPI\Fin de cursos 2009\Galería 3\fin de cursos 206.jpg
+fin de cursos 208.jpg	D:\Mis documentos\Descargas\Varios\FOTOS MAPI\Fin de cursos 2009\Galería 3\fin de cursos 208.jpg
+fin de cursos 210.jpg	D:\Mis documentos\Descargas\Varios\FOTOS MAPI\Fin de cursos 2009\Galería 3\fin de cursos 210.jpg
+fin de cursos 212.jpg	D:\Mis documentos\Descargas\Varios\FOTOS MAPI\Fin de cursos 2009\Galería 3\fin de cursos 212.jpg
+fin de cursos 214.jpg	D:\Mis documentos\Descargas\Varios\FOTOS MAPI\Fin de cursos 2009\Galería 3\fin de cursos 214.jpg
+fin de cursos 229.jpg	D:\Mis documentos\Descargas\Varios\FOTOS MAPI\Fin de cursos 2009\Galería 3\fin de cursos 229.jpg
+fin de cursos 230.jpg	D:\Mis documentos\Descargas\Varios\FOTOS MAPI\Fin de cursos 2009\Galería 3\fin de cursos 230.jpg
+fin de cursos 232.jpg	D:\Mis documentos\Descargas\Varios\FOTOS MAPI\Fin de cursos 2009\Galería 3\fin de cursos 232.jpg
+fin de cursos 233.jpg	D:\Mis documentos\Descargas\Varios\FOTOS MAPI\Fin de cursos 2009\Galería 3\fin de cursos 233.jpg
+fin de cursos 234.jpg	D:\Mis documentos\Descargas\Varios\FOTOS MAPI\Fin de cursos 2009\Galería 3\fin de cursos 234.jpg
+fin de cursos 235.jpg	D:\Mis documentos\Descargas\Varios\FOTOS MAPI\Fin de cursos 2009\Galería 3\fin de cursos 235.jpg
+fin de cursos 236.jpg	D:\Mis documentos\Descargas\Varios\FOTOS MAPI\Fin de cursos 2009\Galería 3\fin de cursos 236.jpg
+fin de cursos 237.jpg	D:\Mis documentos\Descargas\Varios\FOTOS MAPI\Fin de cursos 2009\Galería 3\fin de cursos 237.jpg
+fin de cursos 238.jpg	D:\Mis documentos\Descargas\Varios\FOTOS MAPI\Fin de cursos 2009\Galería 3\fin de cursos 238.jpg
+fin de cursos 239.jpg	D:\Mis documentos\Descargas\Varios\FOTOS MAPI\Fin de cursos 2009\Galería 3\fin de cursos 239.jpg
+fin de cursos 189.jpg	D:\Mis documentos\Descargas\Varios\FOTOS MAPI\Fin de cursos 2009\Galería 3\fin de cursos 189.jpg
+fin de cursos 190.jpg	D:\Mis documentos\Descargas\Varios\FOTOS MAPI\Fin de cursos 2009\Galería 3\fin de cursos 190.jpg

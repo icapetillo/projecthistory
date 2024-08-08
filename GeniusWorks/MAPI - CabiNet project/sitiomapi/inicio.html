@@ -1,0 +1,292 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>.:: Centro Educativo MAPI de Salamanca ::.</title>
+<link href="estilos/map.css" rel="stylesheet" type="text/css" />
+
+<script language="Javascript">
+function mostrar(nombreCapa){
+document.getElementById(nombreCapa).style.visibility="visible";
+}
+function ocultar(nombreCapa){
+document.getElementById(nombreCapa).style.visibility="hidden";
+}
+</script> 
+
+
+<style type="text/css">
+<!--
+body {
+	background-image: url(imagenes/fndPag3.jpg);
+}
+#apDiv1 {
+	position:absolute;
+	left:376px;
+	top:83px;
+	width:330px;
+	height:240px;
+	z-index:1;
+}
+-->
+</style>
+<script language="JavaScript">
+var winName="titulo"
+function Abrir_Ventana(theURL,w,h) {
+
+var windowprops ="top=0,left=0,toolbar=no,location=no,status=no, menubar=no, adressbar=no, scrollbars=no, resizable=no,width=" + w + ",height=" + h;
+
+window.open(theURL,winName,windowprops);
+}
+</script>
+
+<script type="text/javascript">
+function MM_CheckFlashVersion(reqVerStr,msg){
+  with(navigator){
+    var isIE  = (appVersion.indexOf("MSIE") != -1 && userAgent.indexOf("Opera") == -1);
+    var isWin = (appVersion.toLowerCase().indexOf("win") != -1);
+    if (!isIE || !isWin){  
+      var flashVer = -1;
+      if (plugins && plugins.length > 0){
+        var desc = plugins["Shockwave Flash"] ? plugins["Shockwave Flash"].description : "";
+        desc = plugins["Shockwave Flash 2.0"] ? plugins["Shockwave Flash 2.0"].description : desc;
+        if (desc == "") flashVer = -1;
+        else{
+          var descArr = desc.split(" ");
+          var tempArrMajor = descArr[2].split(".");
+          var verMajor = tempArrMajor[0];
+          var tempArrMinor = (descArr[3] != "") ? descArr[3].split("r") : descArr[4].split("r");
+          var verMinor = (tempArrMinor[1] > 0) ? tempArrMinor[1] : 0;
+          flashVer =  parseFloat(verMajor + "." + verMinor);
+        }
+      }
+      // WebTV has Flash Player 4 or lower -- too low for video
+      else if (userAgent.toLowerCase().indexOf("webtv") != -1) flashVer = 4.0;
+
+      var verArr = reqVerStr.split(",");
+      var reqVer = parseFloat(verArr[0] + "." + verArr[2]);
+  
+      if (flashVer < reqVer){
+        if (confirm(msg))
+          window.location = "http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash";
+      }
+    }
+  } 
+}
+</script>
+<script src="Scripts/AC_RunActiveContent.js" type="text/javascript"></script>
+<script language="JavaScript">setInterval("window.status = ''",10);</script> 
+</head>
+
+<body style="margin-top:0; margin-bottom:0" onload="MM_CheckFlashVersion('7,0,0,0','Content on this page requires a newer version of Adobe Flash Player. Do you want to download it now?'); Abrir_Ventana('cumpleanos.php','500','500');">
+<div id="aviso" class="avisos">
+  <table width="90%" border="0" align="center" cellpadding="0" cellspacing="0">
+    <tr>
+      <td height="30">&nbsp;</td>
+    </tr>
+    <tr>
+      <td align="center" class="titulos_secciones"><strong>Atento Aviso</strong></td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td><p>Ya se encuentra disponible la circular del mes de <u>Abril de 2011.</u> </p>
+        <p>Haga <a href="javascript:Abrir_Ventana('avisos_mes.html','515','470')">clic aquí</a> para ver los avisos del mes en una ventana independiente del navegador.</p></td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td align="center" class="titulos_textos"><a href="javascript:ocultar('aviso')" class="titulos_textos">CERRAR AVISO</a></td>
+    </tr>
+  </table>
+</div>
+<table width="770" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="10" rowspan="4" align="right" valign="top" background="imagenes/fndTabIzq.png">&nbsp;</td>
+    <td height="115" colspan="2" align="right" valign="top" background="imagenes/topBanner5.png"><table width="450" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td width="90" class="enlaces"><div align="center" class="enlaces"><a href="inicio.html" class="enlaces">Inicio</a></div></td>
+        <td width="90" height="30" class="enlaces"><div align="center"><a href="quienes.html" class="enlaces">Nosotros</a></div></td>
+        <td width="90" class="enlaces"><div align="center"><a href="contacto.html" class="enlaces">Contacto</a></div></td>
+        <td width="90" class="enlaces"><div align="center"><a href="nuevoingreso.html" class="enlaces">Nuevo Ingreso</a></div></td>
+        <td width="90" class="enlaces"><div align="center"><a href="http://mail.mapi.edu.mx/Login.aspx" target="_blank" class="enlaces">Webmail</a></div></td>
+      </tr>
+    </table></td>
+    <td width="10" rowspan="4" align="right" valign="top" background="imagenes/fndTabDer.png">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="20" colspan="2" align="right" valign="top" background="imagenes/fondoTabla.png">&nbsp;</td>
+  </tr>
+  <tr>
+    <td width="550" height="811" align="center" valign="top" background="imagenes/fondoTabla.png"><table width="95%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td width="50%"><img src="imagenes/ninos1.png" width="255" height="302" /></td>
+        <td width="50%"><p class="titulos_textos">Centro Educativo MAPI de Salamanca</p>
+          <p class="textos" align="justify">Es una institución de nivel preescolar y primaria con una educación de vanguardia única en Salamanca.</p>
+          <p class="textos" align="justify">Contamos también con estancia infantil apoyada por SEDESOL.</p>
+          <p class="textos" align="justify">Le invitamos a conocer nuestra Institución a través de las diferentes secciones que componen el sitio. </p>
+          <p class="textos" align="justify">Agradecemos su interés en el Centro Educativo MAPI de Salamanca.</p></td>
+      </tr>
+    </table>      <table width="90%%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td colspan="2">&nbsp;</td>
+      </tr>
+      <tr>
+        <td width="50%" align="center" valign="top"><table width="90%%" border="0" align="center" cellpadding="5" cellspacing="0" class="tablasLaterales">
+          <tr>
+            <td height="30" bgcolor="#FFFFFF" class="titulos_textos">Video institucional</td>
+          </tr>
+          <tr>
+            <td height="140" align="center" valign="middle" bgcolor="#FFFFFF"><p><span class="textos">Haga clic para verlo en una nueva ventana</span><br />
+              <a href="javascript:Abrir_Ventana('video.html',450,360)"><img src="imagenes/video.png" width="132" height="100" border="0" /></a></p>
+              <p><a href="informes.html"><img src="imagenes/btInformes.png" width="200" height="50" border="0" /></a></p></td>
+          </tr>
+        </table></td>
+        <td width="50%" align="center" valign="top"><table width="90%%" border="0" align="center" cellpadding="5" cellspacing="0" class="tablasLaterales">
+          <tr>
+            <td height="30" bgcolor="#FFFFFF" class="titulos_textos">Boletín para padres</td>
+          </tr>
+          <tr>
+            <td height="140" align="center" bgcolor="#FFFFFF"><form id="form1" name="form1" method="post" action="enviosuscripcion.php" onsubmit="javascript:Abrir_Ventana('envio_susc.html','400','300')">
+              <p class="textos">Para suscribirse y recibir avisos de nuestra Institución, introduzca sus datos:</p>
+              <table width="100%" border="0" align="center" cellpadding="0" cellspacing="0" class="textos">
+                <tr>
+                  <td align="center">Nombre del padre:</td>
+                </tr>
+                <tr>
+                  <td align="center"><input name="nombre_padre" type="text" id="nombre_padre" size="20" /></td>
+                </tr>
+                <tr>
+                  <td align="center">Nombre del alumno:</td>
+                </tr>
+                <tr>
+                  <td align="center"><input name="nombre_hijo" type="text" id="nombre_hijo" size="20" /></td>
+                </tr>
+                <tr>
+                  <td align="center">Correo electrónico:</td>
+                </tr>
+                <tr>
+                  <td align="center"><input name="email" type="text" id="email" size="20" /></td>
+                </tr>
+                <tr>
+                  <td align="center">Nivel educativo:</td>
+                </tr>
+                <tr>
+                  <td align="center"><label>
+                    <select name="nivel" id="nivel">
+                      <option value="1">Maternal</option>
+                      <option value="2">Preescolar</option>
+                      <option value="3">Primaria</option>
+                    </select>
+                  </label></td>
+                </tr>
+                <tr>
+                  <td align="center"><input type="submit" name="suscribe" id="suscribe" value="Suscribir" /></td>
+                </tr>
+              </table>
+            </form></td>
+          </tr>
+        </table></td>
+      </tr>
+      <tr>
+        <td height="20" colspan="2" align="center" valign="top">&nbsp;</td>
+        </tr>
+      <tr>
+        <td colspan="2"  valign="top"><table width="100%" border="0" cellpadding="5" cellspacing="0" class="tablasLaterales">
+          <tr>
+            <td align="center" valign="middle" bgcolor="#FFFFFF" class="titulos_textos">Avisos</td>
+          </tr>
+          <tr>
+            <td height="200" bgcolor="#FFFFFF" align="left"><iframe src="avisos.php" width="490" height="180" frameborder="0" scrolling="auto"></iframe></td>
+          </tr>
+        </table></td>
+        </tr>
+    </table>    <p align="center"></p>    </td>
+    <td width="200" align="center" valign="top" background="imagenes/fondoTabla.png"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td><a href="javascript:Abrir_Ventana('avisos_mes.html','515','410')"><img src="imagenes/avisosLogo.png" alt="" width="200" height="20"  border="0"/></a></td>
+      </tr>
+      <tr>
+        <td><a href="intranet/loginmaestros.html" target="_blank"><img src="imagenes/accesoLogo.png" alt="" width="200" height="20" border="0" /></a><a href="loginmaestros.html"></a></td>
+      </tr>
+      <tr>
+        <td><a href="cabinet/index.php" target="_blank"><img src="imagenes/btcabiNet.jpg" width="200" height="23" border="0" /></a></td>
+      </tr>
+      <tr>
+        <td><a href="http://mapisalamanca.blogspot.com/" target="_blank"><img src="imagenes/btBlog.jpg" width="200" height="23" border="0" /></a></td>
+      </tr>
+      <tr>
+        <td align="center"><table width="95%" border="0" align="center" cellpadding="4" cellspacing="0" class="tablasLaterales" background="imagenes/fndTabla.png">
+          <tr>
+            <td height="22" align="center" valign="middle" background="imagenes/fondoTablaTop.png" class="titulos_textos"><a href="quienes.html" class="titulos_textos">Nuestra escuela</a></td>
+          </tr>
+          <tr>
+            <td height="60" align="center" valign="bottom"><img src="imagenes/logoMapi.png" alt="" width="99" height="53" /></td>
+          </tr>
+          <tr>
+            <td height="80" class="enlacesTablasLat"><a href="quienes.html" class="enlacesTablasLat">Conoce quiénes somos, nuestra filosofía, nuestras instalaciones y más...</a></td>
+          </tr>
+        </table></td>
+      </tr>
+      <tr>
+        <td align="center"><table width="95%" border="0" align="center" cellpadding="4" cellspacing="0" class="tablasLaterales" background="imagenes/fndTabla.png">
+          <tr>
+            <td height="22" align="center" valign="middle" class="titulos_textos" background="imagenes/fondoTablaTop.png"><a href="nuevoingreso.html" class="titulos_textos">Nuevo Ingreso</a></td>
+          </tr>
+          <tr>
+            <td height="70" align="center" valign="top"><img src="imagenes/ninos2.png" alt="" width="99" height="63" /></td>
+          </tr>
+          <tr>
+            <td height="80" class="enlacesTablasLat"><a href="nuevoingreso.html" class="enlacesTablasLat">Entérate de nuestra oferta educativa así como los requisitos para formar parte de la comunidad MAPI...</a></td>
+          </tr>
+        </table></td>
+      </tr>
+      <tr>
+        <td align="center"><table width="95%" border="0" align="center" cellpadding="4" cellspacing="0" class="tablasLaterales" background="imagenes/fndTabla.png">
+          <tr>
+            <td height="22" align="center" valign="middle" class="titulos_textos" background="imagenes/fondoTablaTop.png"><a href="comunidad.html" class="titulos_textos">Comunidad MAPI</a></td>
+          </tr>
+          <tr>
+            <td height="80" align="center" valign="top"><img src="imagenes/comunidad.jpg" alt="" width="99" height="74" /></td>
+          </tr>
+          <tr>
+            <td height="80" class="enlacesTablasLat"><a href="comunidad.html" class="enlacesTablasLat">Descarga la circular del mes, menús de la semana, fotos, enlaces y mucho más...</a></td>
+          </tr>
+        </table></td>
+      </tr>
+      <tr>
+        <td align="center"><table width="95%" border="0" align="center" cellpadding="4" cellspacing="0" class="tablasLaterales" background="imagenes/fndTabla.png">
+          <tr>
+            <td height="22" align="center" valign="middle" class="titulos_textos" background="imagenes/fondoTablaTop.png"><a href="portal/loginusuarios.html" target="_blank" class="titulos_textos">Portal para padres</a></td>
+          </tr>
+          <tr>
+            <td height="100" align="center" valign="top"><img src="imagenes/padresIcono.jpg" alt="" width="99" height="99" /></td>
+          </tr>
+          <tr>
+            <td height="80" align="justify"><span class="enlacesTablasLat"><a href="portal/loginusuarios.html" target="_blank" class="enlacesTablasLat">Sigue a detalle el desempeño académico de tus hijos...</a></span></td>
+          </tr>
+        </table></td>
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td height="109" colspan="2" align="center" valign="top" background="imagenes/bottomBanner.png">
+    <p><!-- Histats.com  START  -->
+<a href="http://www.histats.com/es/" target="_blank" title="contador" ><script  type="text/javascript" language="javascript">
+var s_sid = 990186;var st_dominio = 4;
+var cimg = 111;var cwi =175;var che =25;
+</script></a>
+<script  type="text/javascript" language="javascript" src="http://s11.histats.com/js9.js"></script>
+<noscript><a href="http://www.histats.com/es/" target="_blank">
+<img  src="http://s103.histats.com/stats/0.gif?990186&1" alt="contador" border="0"></a>
+</noscript>
+<!-- Histats.com  END  --></p></td>
+  </tr>
+</table>
+</body>
+</html>

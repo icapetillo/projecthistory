@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<flash_parameters copyright="socusoftFSMTheme">
+    <preferences>
+        <global>
+            <basic_property movieWidth="450" movieHeight="160" html_title="Seguridad" loadStyle="Pie" startAutoPlay="true" socusoftMenu="false" backgroundColor="0xffffff" hideAdobeMenu="false" enableURL="false"/>
+            <title_property showTitle="false" photoTitleColor="0x808080"/>
+            <music_property path="" stream="true" loop="true"/>
+            <thumbnail autoScroll="true" thumbnailWidth="100" thumbnailHeight="118" thumbnailBorderSize="1" thumbnailBorderColor="0x000000" curveSize="6" padding="5" paddingColor="0xfffbf0" thumbnailSpace="10"/>
+            <border_property borderSize="1" borderColor="0xc0c0c0"/>
+        </global>
+    </preferences>
+    <album>
+        <slide jpegURL="thumbs/t_0001.jpg" d_URL="slides/p_0001.jpg" transition="0" panzoom="1" URLTarget="0" phototime="2" url="" title="DSC01938" width="450" height="160"/>
+        <slide jpegURL="thumbs/t_0002.jpg" d_URL="slides/p_0002.jpg" transition="0" panzoom="1" URLTarget="0" phototime="2" url="" title="DSC01945" width="450" height="160"/>
+        <slide jpegURL="thumbs/t_0003.jpg" d_URL="slides/p_0003.jpg" transition="0" panzoom="1" URLTarget="0" phototime="2" url="" title="DSC01946" width="450" height="160"/>
+        <slide jpegURL="thumbs/t_0004.jpg" d_URL="slides/p_0004.jpg" transition="0" panzoom="1" URLTarget="0" phototime="2" url="" title="DSC01950" width="450" height="160"/>
+        <slide jpegURL="thumbs/t_0005.jpg" d_URL="slides/p_0005.jpg" transition="0" panzoom="1" URLTarget="0" phototime="2" url="" title="DSC02007" width="450" height="160"/>
+        <slide jpegURL="thumbs/t_0006.jpg" d_URL="slides/p_0006.jpg" transition="0" panzoom="1" URLTarget="0" phototime="2" url="" title="FOTOS 21 DE JULIO025" width="450" height="160"/>
+        <slide jpegURL="thumbs/t_0007.jpg" d_URL="slides/p_0007.jpg" transition="0" panzoom="1" URLTarget="0" phototime="2" url="" title="FOTOS 21 DE JULIO069" width="450" height="160"/>
+        <slide jpegURL="thumbs/t_0008.jpg" d_URL="slides/p_0008.jpg" transition="0" panzoom="1" URLTarget="0" phototime="2" url="" title="huffy2" width="450" height="160"/>
+    </album>
+</flash_parameters>

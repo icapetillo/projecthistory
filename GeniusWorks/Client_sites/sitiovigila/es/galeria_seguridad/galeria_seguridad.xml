@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flash_parameters copyright="sothink">
+	<preferences>
+		<global>
+			<basic_property movieWidth="580" movieHeight="452" startAutoPlay="true" decoration="skin/love1.swf" backgroundColor="0x005080" hideAdobeMenu="false" photoDynamicShow="true" enableURL="true" transitionArray=""/>
+			<title_property showTitle="true" photoTitleColor="0xff0000" backgroundColor="0xffffff" alpha="50" autoHide="true"/>
+			<music_property path="res/sound67.mp3" stream="true" loop="true"/>
+			<photo_property photoWidth="480" photoHeight="360" topPadding="18" bottomPadding="79" leftPadding="49" rightPadding="55"/>
+			<description_property backgroundColor="0xffffff" backgroundAlpha="30" color="0xff0000" size="18"/>
+		</global>
+		<thumbnail>
+			<basic_property showPrview="true" buttonColor="0xffffff" borderColor="0xffffff" currentBorderColor="0xffffff"/>
+		</thumbnail>
+	</preferences>
+	<album>
+		<slide d_URL="photo/DSC01950.JPG" transition="2T16" panzoom="1" URLTarget="0" phototime="2" url="http://" title="http_imgload"/><slide d_URL="photo/DSC01951.JPG" transition="39" panzoom="1" URLTarget="0" phototime="2" url="http://" title="http_imgload"/><slide d_URL="photo/DSC01957.JPG" transition="47" panzoom="1" URLTarget="0" phototime="2" url="http://www.sothink.com/" title="http_imgload"/><slide d_URL="photo/DSC01958.JPG" transition="8" panzoom="1" URLTarget="0" phototime="2" url="http://www.sothink.com/" title="http_imgload"/><slide d_URL="photo/FOTOS 21 DE JULIO025.JPG" transition="2T30" panzoom="1" URLTarget="0" phototime="2" url="http://www.sothink.com/" title="http_imgload"/><slide d_URL="photo/FOTOS 21 DE JULIO026.JPG" transition="2T16" panzoom="1" URLTarget="0" phototime="2" url="http://www.sothink.com/" title="http_imgload"/><slide d_URL="photo/FOTOS 21 DE JULIO069.JPG" transition="2T42" panzoom="1" URLTarget="0" phototime="2" url="http://www.sothink.com/" title="http_imgload"/><slide d_URL="photo/DSC01938.JPG" transition="2T13" panzoom="1" URLTarget="0" phototime="2" url="" title="http_imgload"/><slide d_URL="photo/DSC01945.JPG" transition="39" panzoom="1" URLTarget="0" phototime="2" url="" title="http_imgload"/><slide d_URL="photo/DSC01946.JPG" transition="2T61" panzoom="1" URLTarget="0" phototime="2" url="" title="http_imgload"/><slide d_URL="photo/DSC02007.JPG" transition="8" panzoom="1" URLTarget="0" phototime="2" url="" title="http_imgload"/><slide d_URL="photo/FOTOS 21 DE JULIO032.JPG" transition="2T30" panzoom="1" URLTarget="0" phototime="2" url="" title="http_imgload"/></album>
+</flash_parameters>

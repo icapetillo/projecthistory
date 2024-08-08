@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+
+<head>
+	<title>MontBleu M&eacute;xico - Sitio Oficial</title>
+	<!--META-->
+        <meta charset="utf-8" />
+
+	<!--CSS-->
+	<link rel="stylesheet" type="text/css" href="css/infopage.css">
+        <style>
+            * {margin:0px; padding:0px;}
+            .wrap {width:500px; margin:50px auto;}
+            .clear {clear:both;}
+
+            ul.tabs {list-style:none; width:500px;}
+            ul.tabs li:first-child {border-left:1px solid #ccc;}
+            ul.tabs li {float:left; border-right:1px solid #ccc; border-top:1px solid #ccc; background-color:#eee; font-size: 1em;}
+            ul.tabs li.active {border-bottom:1px solid #fff; background-color:#fff; margin-bottom:-1px;}
+            ul.tabs li a {display:block; padding:5px 10px; color:#777; letter-spacing:-1px; outline:none; text-decoration:none; font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;}
+            ul.tabs li.active a {font-weight:600; color:#000;}
+
+            div.tabs_content {width:500px; border:1px solid #ccc;}
+            div.tabs_content > div {padding:20px;}
+        </style>
+	
+	<!--JAVASCRIPT-->
+ 	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>		
+        <script src="js/jTabs.js"></script> 
+        <script>
+        $(document).ready(function(){
+            $("ul.tabs").jTabs({content: ".tabs_content", animate: true});                       
+        });
+        </script>
+
+	
+</head>
+
+<body>
+    <br>   
+    <h2>Nuestro mercado:</h2>
+    <br>   
+    
+        <ul class="text lista">
+            <li>Tiendas MontBleu México. Se cuenta con excelentes promociones para la instalación de tiendas exclusivas Mont Bleu México así como el uso de la marca.</li>
+            <li>Salones de Belleza y Spa. Excelente opción para ofrecer servicios de calidad al cliente, sobre todo con accesorios como las Limas de Uñas de Cristal.</li>
+            <li>Publicitarios. MontBleu México ofrece diseños especiales y exclusivos para empresas.</li>
+            <li>Joyerías. Montbleu México puede ofrecer sus artículos en joyerías exclusivas por sus altos estándares de calidad en productos.</li>
+            <li>Cadenas de tiendas de Cosméticos, Perfumerías, accesorios y moda así como tiendas de regalos, recuerdos y boutique. </li>
+            <li>Ventas virtuales (a través de la web).</li>
+            <li>Distribuidores mayoristas y minoristas. Mont Bleu México ofrece excelentes promociones para mayoristas y minoristas.</li>                
+        </ul>
+    
+    <br>
+    <span class="text">En Mont Bleu México nos preocupamos por nuestros clientes, por la calidad de nuestros productos y trabajamos para conservar nuestra excelente reputación internacional.</span>        
+</body>
+
+</html>

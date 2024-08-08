@@ -1,0 +1,151 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	background-image:url(../images/fondo.jpg);
+	margin-bottom:0;
+	margin-top:0;
+}
+
+.mainMenu{
+	color:#600;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:larger;
+	font-weight:900;
+	text-decoration:none;
+	}
+
+.mainMenu:hover {
+	color:#F00;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:larger;
+	font-weight:900;
+	text-decoration:underline;
+	}
+	
+.footer{
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:x-small;
+	color:#CCC;
+	text-align:right;
+	}
+
+.titer{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:larger;
+	font-weight:bolder;
+	color:#600;
+	}
+	
+.message{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:medium;
+	font-weight:normal;
+	color:#600;
+	text-align:justify;
+	}
+
+.lirelasuite{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:x-small;
+	color:#900;
+	text-align:right;
+	text-decoration:none;
+	}
+
+.lirelasuite:hover {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:x-small;
+	color:#900;
+	text-align:right;
+	text-decoration:underline;
+	}
+	
+#footnote{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:small;
+	font-style:italic;
+	color:#3C6;	
+	}
+
+/* Para las fichas técnicas de productos */
+
+.producto_titulo{
+	font-family:"Book Antiqua", Palatino, serif;
+	font-size:x-large;
+	font-weight:bolder;
+	color:#600;	
+	}
+
+.producto_subtitulo{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:small;
+	font-weight:bold;
+	color:#600;
+	}
+
+.producto_descripcion{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:medium;
+	font-weight:normal;
+	color:#600;
+	text-align:justify;
+	}
+
+.texte{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:small;
+	font-weight:bold;
+	color:#600;
+	text-align:justify;
+	padding-left:30px;
+	padding-right:30px;
+	}
+
+p{
+	margin-bottom:5;
+	}
+
+p + p {
+  text-indent: 1.5em;
+  margin-top: 0 
+  }
+
+/* Para redondear esquinas */
+
+.spiffy{display:block}
+.spiffy *{
+  display:block;
+  height:1px;
+  overflow:hidden;
+  font-size:.01em;
+  background:#990000}
+.spiffy1{
+  margin-left:1px;
+  margin-right:1px;
+  padding-left:1px;
+  padding-right:1px;
+  border-left:1px solid #990000;
+  border-right:1px solid #990000;/*919191  3f3f3f*/
+  background:#990000}
+.spiffy2{
+  margin-left:1px;
+  margin-right:1px;
+  padding-right:1px;
+  padding-left:1px;
+  border-left:1px solid #e5e5e5;
+  border-right:1px solid #e5e5e5;
+  background:#303030}
+.spiffy3{
+  margin-left:1px;
+  margin-right:1px;
+  border-left:1px solid #303030;
+  border-right:1px solid #303030;}
+.spiffy4{
+  border-left:1px solid #919191;
+  border-right:1px solid #919191}
+.spiffy5{
+  border-left:1px solid #3f3f3f;
+  border-right:1px solid #3f3f3f}
+.spiffyfg{
+  background:#000000}

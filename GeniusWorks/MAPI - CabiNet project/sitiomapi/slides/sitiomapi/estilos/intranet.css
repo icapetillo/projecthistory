@@ -1,0 +1,123 @@
+@charset "utf-8";
+/* CSS Document */
+
+.loginForm{
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:10px;
+	text-decoration:none;
+	color:#666;
+	}
+	
+.botones{
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:10px;
+	font-style:italic;
+	font-weight:bold;
+	}
+	
+.titulos{
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:14px;
+	font-weight:bold;
+	color:#FFF;
+	text-align:justify;
+	}
+	
+.titulos_tablas{
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:x-small;
+	text-align:center;
+	background-color:#03C;
+	font-weight:bold;
+	color:#FFF;
+}
+	
+.controles{
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:10px;
+	text-decoration:none;
+	color:#006;
+	}
+
+.controles2{
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:12px;
+	text-decoration:none;
+	color:#006;
+	}
+
+.avisos2{
+	background-color:#FFF;
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:10px;
+	text-align:justify;
+	}
+
+.avisos2:hover{
+	background-color:#CCC;
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:10px;
+	text-align:justify;
+	}
+
+.avisos3{
+	background-color:#FFF;
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:10px;
+	text-align:center;
+	}
+	
+/* Estilos para cabiNet */
+.usuario{
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:x-small;
+	color:#036;
+	}
+
+.loginstatus{
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:x-small;
+	color:#900;
+	text-decoration:none;
+	}
+
+.loginstatus:hover{
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:x-small;
+	color:#900;
+	text-decoration:underline;
+	}
+
+.textos{
+	font-family:Georgia, "Times New Roman", Times, serif;
+	font-size:12px;
+	color:#333333;
+	text-align:justify;
+}
+
+.error_login{
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:large;
+	color:#F00;
+	text-align:center;
+	background-color:#ACD9FD;
+}
+
+.titulos_tablas2{
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:small;
+	text-align:center;
+	background-color:#360;
+	font-weight:bold;
+	color:#FFF;
+}
+
+.meses{
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:xx-small;
+	text-align:center;
+	vertical-align:middle;
+	background-color:#360;
+	font-weight:bold;
+	color:#FFF;
+}

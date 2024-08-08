@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title title="Sistemas Integrales de Preparatoria">Sistemas Integrales de Preparatoria</title>
+    <link href="css/estilo.css" rel="stylesheet" type="text/css" />
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script>
+    <script src="custom_animations.js"></script>
+    <script src="custom_easing.js"></script>
+    <script src="jSlider.js"></script>
+    <script>
+    $(document).ready(function(){
+
+            $(".slider").jSlider({elem:"div",images:true, animation: "random",auto_slide: true, auto_slide_interval:4000, infinite: true, speed: 1200});
+
+    });
+    </script>
+</head>
+<body>
+    
+    <div id="fb-root"></div>
+    <script>(function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = "//connect.facebook.net/es_LA/all.js#xfbml=1";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
+    
+    <div class="page">
+        <div class="header">
+            <div class="logo">
+                <img src="img/logosip.png" />
+            </div>            
+            <div class="social">
+                <a href="#">INSCRIPCIONES</a>&nbsp;&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;<a href="#">CONTACTO</a>&nbsp;&nbsp; |&nbsp;&nbsp; 
+                <a href="#">ALUMNOS</a>&nbsp;&nbsp; &nbsp;
+                <img alt="Facebook" src="img/facebook.png" align="absmiddle" />&nbsp;&nbsp;&nbsp; 
+                <img alt="Twitter" src="img/twitter.jpg" align="absmiddle" />
+                <p>
+                ¡Contáctanos! 01800-509-7113                
+                <br/>
+                Plantel:
+                    <select>
+                        <option>Salamanca</option>
+                        <option>León</option>
+                    </select>
+                </p>
+            </div>            
+        </div>
+        <div class="menuContainer">
+            <div class="menu">
+                <ul>
+                    <li><a href="index.html">Inicio</a></li>
+                    <li><a href="#">Nuestra Escuela</a></li>
+                    <li><a href="#">Oferta Educativa</a></li>
+                    <li><a href="#">Inscripciones</a></li>
+                    <li><a href="#">Comunidad</a></li>
+                    <li><a href="#">Contacto</a></li>
+                </ul>
+            </div>
+            <div class="searchwidget">
+                <input type="text" name="parametros" placeholder="Buscar" size="40" />            
+            </div>
+        </div>
+        <div class="main">
+            <div class="slider_cont">
+                <div class="slider">
+                    <div><a href="#"><img src="img/sipslide01.png" width="780" height="230" border="0" /></a></div>
+                    <div><a href="#"><img src="img/sipslide02.png" width="780" height="230" border="0" /></a></div>
+                    <div><a href="#"><img src="img/sipslide03.png" width="780" height="230" border="0" /></a></div>
+                    <div><a href="#"><img src="img/sipslide04.png" width="780" height="230" border="0" /></a></div>
+                    <div><a href="#"><img src="img/sipslide05.png" width="780" height="230" border="0" /></a></div>
+                    <a href="#" class="next">&rarr;</a>
+                    <a href="#" class="prev">&larr;</a>
+                </div>
+            </div>
+            <br />
+            <div class="introtext">
+                <span class="promotext">Bienvenidos</span><br />
+                <span style="text-align: justify;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque id commodo dui. Nam congue velit et eros lobortis a pharetra metus interdum. Donec non est nec sem tempor interdum. Curabitur varius eros ac dolor pellentesque at tincidunt ligula lobortis. Sed eget posuere dolor. Proin in ligula vel metus commodo dignissim vel sit amet quam. Phasellus viverra sollicitudin libero at dignissim. Vestibulum rhoncus magna id justo facilisis egestas.</span>
+            </div>
+            <br />
+            <center>
+                <table width="780px">
+                    <tr align="center">
+                        <td><div class="promobuttons"><img src="img/porqueelegir.png" width="240" height="80" border="0" /></div></td>
+                        <td><div class="promobuttons"><img src="img/inscripciones.png" width="240" height="80" border="0" /></div></td>
+                        <td><div class="promobuttons"><img src="img/comunidad.png" width="240" height="80" border="0" /></div></td>
+                    </tr>
+                    <tr align="center">
+                        <td><div class="promotext">¿Por qué elegir SIP?</div></td>
+                        <td><div class="promotext">Inscripciones</div></td>
+                        <td><div class="promotext">Comunidad</div></td>
+                    </tr>
+                </table>
+            </center>
+        </div>
+        <div class="sidebar">
+            <div class="titulos">Noticias</div>
+            
+            <div class="news_item">Lorem ipsum dolor sit amet, consectetur adipiscing elit</div>
+            <div class="readmore">Leer más>></div> <br />
+            
+            <div class="news_item">Lorem ipsum dolor sit amet, consectetur adipiscing elit</div>
+            <div class="readmore">Leer más>></div> <br />           
+           
+            <div class="titulos">Actividad</div>
+            <br />
+            <center>
+            <div class="fb-like-box" data-href="http://www.facebook.com/GeniusWorksMX" data-width="292" data-height="280" data-show-faces="false" data-stream="true" data-header="false"></div>
+            </center>
+        </div>
+        <div class="clear">
+        </div>
+    </div>
+    <div class="footer">
+        Copyright &copy; 2012 Sistemas Integrales de Preparatoria. Todos los derechos reservados. <br />
+        Sitio creado y mantenido por <a href="http://www.geniusworksmexico.com" target="_blank">GeniusWorks</a>.
+    </div>
+	
+</body>
+</html>

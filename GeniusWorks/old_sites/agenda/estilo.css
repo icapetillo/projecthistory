@@ -1,0 +1,79 @@
+body{
+	background: #C0DEED url('bg-clouds.png') repeat-x;
+}
+
+.enlace{
+	font-family:"Arial";
+	font-size:medium;
+	font-weight:bold;
+	color:#FF0000;	
+	text-decoration:none;
+}
+
+.enlace:hover{
+	font-family:"Arial";
+	font-size:medium;
+	font-weight:bold;
+	color:#F5EF40;	
+	text-decoration:none;
+	background:#FF0000;
+}
+
+.formulario {
+	color:#036;
+    font-family:"Arial";
+	font-size:small;
+}
+
+.boton{
+    font-size:12px;
+    font-family:"Arial";
+    font-weight:bold;
+    color:white;
+    background:#870000;
+    border:0px;
+    width:150px;
+    height:30px;
+}
+
+.boton:hover{
+    font-size:12px;
+    font-family:"Arial";
+    font-weight:bold;
+    color:white;
+    background:#FF0000;
+    border:0px;
+    width:150px;
+    height:30px;
+}
+
+
+.caja{
+	color:#96001C;
+    font-family:"Arial";
+	font-size:small;
+}
+
+.caja:focus{
+	color:#96001C;
+    font-family:"Arial";
+	font-size:small;
+	background:#FAED98;
+}
+
+.titulos_tablas{
+	color:white;
+	font-family:"Arial";
+	font-size:medium;
+	font-weight:bold;
+	background:#0000FF;
+	text-align: center;
+}
+
+.filas_tablas{
+	color:#00235E;
+	font-family:"Arial";
+	font-size:small;
+}
+
+

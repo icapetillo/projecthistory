@@ -1,0 +1,301 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>. . : : CUN Baj&iacute;o - Formaci&oacute;n sin l&iacute;mites : : . .</title>
+
+ <style type="text/css">
+        #ticker-container {
+        position:relative;
+        overflow:hidden;
+        width: 210px;
+        height: 295px;
+        background-color: #ffffff;
+        background-repeat: repeat;
+        padding: 2px;
+        border: Defaultpx dotted ;
+        }
+	
+	#ticker {
+		position:relative;
+		width:150px;
+	}
+	
+	#ticker ul {
+		padding:0px;
+		margin:0px;
+		list-style-type:none;
+	}
+	#ticker ul li {
+            display:list-item;
+            margin-top: 1px;
+            margin-bottom: 1px;
+            padding-top: 1px;
+            padding-bottom: 1px;
+            font-family: arial;
+            font-size: xx-small;
+            font-weight: normal;
+            color:#000000;
+            padding-left: 2px;
+	}
+	
+	#ticker ul li a {
+            font-family: arial;
+            font-size: small;
+            font-weight: bold;
+            color: #003300;
+            text-decoration: none;
+            padding-left: 2px;
+	}
+        
+        #ticker ul li a:hover {
+            font-family: arial;
+            font-size: small;
+            color: #660000;
+            text-decoration: none;
+            padding-left: 2px;
+        }
+        </style>
+		
+		<script language="JavaScript">
+        //scroller width
+        var swidth=210;
+
+        //scroller height
+        var sheight=300;
+
+        //background color
+        var sbcolor='#ffffff';
+
+        //scroller's speed
+        var sspeed=2;
+
+        var msg=''
+
+        //Your messages go below:
+
+
+        msg +=
+        
+            '<ul><li><a href="http://www.cunbajio.edu.mx/index.html" target="_blank" title="">Nuevo Sitio de CUN</a></li>'+
+            '<li>Entra en operaciones el nuevo sitio de CUN. Esperamos que te sea de utilidad.</li>'+
+            '<li> </li></ul>'+                     
+            
+            '<ul><li><a href="http://www.cunbajio.edu.mx/misionvision.html" target="_blank" title="">Conócenos</a></li>'+
+            '<li>Conoce nuestra Misión y Visión.</li>'+
+            '<li> </li></ul>'+  
+            
+            '<ul><li><a href="http://www.cunbajio.edu.mx/ubicacion.html" target="_blank" title="">Ubicación</a></li>'+
+            '<li>Si no sabes dónde localizarnos, haz clic aquí para ver un mapa.</li>'+
+            '<li> </li></ul>'+  
+            
+            '<ul><li><a href="http://www.cunbajio.edu.mx/requisitos.html" target="_blank" title="">Requisitos de ingreso</a></li>'+
+            '<li>Conoce los requisitos de inscripción. Descarga las hojas de información para compartir con otros.</li>'+
+            '<li> </li></ul>'+  
+            
+            '<ul><li><a href="http://www.cunbajio.edu.mx/horarios.html" target="_blank" title="">Calendarios</a></li>'+
+            '<li>Calendarios y horarios de clase.</li>'+
+            '<li> </li></ul>'+  
+            
+
+        '';
+
+        //End of your messages
+        // Begin the ticker code
+
+        var resumesspeed=sspeed
+        function start() {
+                if (document.all) iemarquee(ticker);
+                else if (document.getElementById)
+                        ns6marquee(document.getElementById('ticker'));
+        }
+        
+        function iemarquee(whichdiv){
+                iediv=eval(whichdiv)
+                sheight += 50;
+                iediv.style.pixelTop=sheight
+                iediv.innerHTML=msg 
+                sizeup=iediv.offsetHeight
+                ieslide()
+        }
+        
+        function ieslide(){
+                if (iediv.style.pixelTop>=sizeup*(-1)){
+                        iediv.style.pixelTop-=sspeed
+                        setTimeout("ieslide()",100)
+                }
+                else{
+                        iediv.style.pixelTop=sheight
+                        ieslide()
+                }
+        }
+        
+        function ns6marquee(whichdiv){
+                ns6div=eval(whichdiv)
+                sheight += 50;
+                ns6div.style.top=sheight + "px";
+                ns6div.innerHTML=msg
+                sizeup=ns6div.offsetHeight
+                ns6slide()
+        }
+        function ns6slide(){
+                if (parseInt(ns6div.style.top)>=sizeup*(-1)){
+                        theTop = parseInt(ns6div.style.top)-sspeed
+                        ns6div.style.top = theTop + "px";
+                        setTimeout("ns6slide()",100)
+                }
+                else {
+                        ns6div.style.top = sheight + "px";
+                        ns6slide()
+                }
+        }
+
+
+
+        </script>
+		
+		
+
+
+<style type="text/css">
+<!--
+@import url("estilos/estiloCUN.css");
+body {
+	background-image: url();
+	background-repeat: repeat;
+	background-color: #DEDEDD;
+}
+-->
+</style>
+<link href="estilos/estiloCUN.css" rel="stylesheet" type="text/css" />
+<script type="text/JavaScript">
+<!--
+
+
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+</script>
+<style type="text/css">
+<!--
+.Estilo4 {color: #000000}
+-->
+</style>
+<script type="text/javascript" language="JavaScript1.2" src="stmenu.js"></script>
+</head>
+
+<body topmargin="0" onload="start();">
+<table width="840" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="20" background="imagenes/fndIzq.png">&nbsp;</td>
+    <td width="800"><table width="800" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td height="20" bgcolor="#932728" class="navega">&nbsp;</td>
+        <td width="120" height="20" bgcolor="#932728" class="navega"><div align="center">
+          <div align="center"><a href="index.html" class="navega">Inicio</a></div>
+        </div></td>
+        <td width="120" height="20" bgcolor="#932728" class="navega"><div align="center"><a href="mapa.html" class="navega">Mapa del sitio </a></div></td>
+        <td width="240" height="20" bgcolor="#932728" class="navega"><div align="center"><a href="http://www.anexa.edu.mx" class="navega">Secundaria y Preparatoria Anexa </a></div></td>
+        <td width="160" height="20" bgcolor="#932728" class="navega"><div align="center"><img src="imagenes/sobre.png" width="20" height="10" /> <a href="mailto:info@cunbajio.edu.mx" class="navega">Contacto</a></div></td>
+      </tr>
+      <tr>
+        <td height="137" colspan="5" align="right" background="imagenes/bannerCUN.png"><table width="40%" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td class="navega"><div align="right"><a href="licinfo.html" class="navega">Licenciatura en Inform&aacute;tica Administrativa </a></div></td>
+          </tr>
+          <tr>
+            <td class="navega"><div align="right"><a href="licconta.html" class="navega">Licenciatura en Contadur&iacute;a y Finanzas </a></div></td>
+          </tr>
+          <tr>
+            <td class="navega"><div align="right"><a href="licderecho.html" class="navega">Licenciatura en Derecho </a></div></td>
+          </tr>
+          <tr>
+            <td class="navega"><div align="right"><a href="maestria_ti.html" class="navega">Maestr&iacute;a en Tecnolog&iacute;as de la Informaci&oacute;n </a></div></td>
+          </tr>
+        </table></td>
+      </tr>
+      <tr>
+        <td colspan="5" bgcolor="#932728"><script type="text/javascript" language="JavaScript1.2">
+<!--
+stm_bm(["menu12aa",730,"","blank.gif",0,"","",2,0,19,19,200,1,0,0,"","100%",83886139,0,1,1,"default","hand",""],this);
+stm_bp("p0",[0,4,0,0,4,0,4,0,100,"",-2,"",-2,91,0,0,"#999999","#CC0000","",3,0,0,"#b8cddb","",-1,-1,0,"#FFFFF7","",3,"",-1,-1,0,"#FFFFF7","",3,"",-1,-1,0,"#FFFFF7","",3,"",-1,-1,0,"#FFFFF7","",3,"","","",""]);
+stm_ai("p0i0",[6,1,"#CCCCCC","",-1,-1,0]);
+stm_ai("p0i1",[0,"Nuestra Institución","","",-1,-1,0,"","_self","","","","",4,0,0,"","",0,0,0,1,1,"#c6d7e7",1,"#B0C6FF",1,"","menu-width.gif",2,3,0,0,"#ffffff","#ffffff","#E5E5E5","#FFFFFF","8pt Arial","8pt Arial",0,0],72,23);
+stm_bp("p1",[1,4,0,8,2,2,6,0,100,"",-2,"",-2,100,0,0,"#999999","#FFFFFF","",3,1,1,"#999999"]);
+stm_aix("p1i0","p0i1",[0,"Mensaje del Director","","",-1,-1,0,"mensaje.html","_self","","","","",6,0,0,"","",0,0,0,0,1,"#b8cddb",1,"#999999",0,"","",2,3,0,0,"#ffffff","#ffffff","#000000"],80,0);
+stm_aix("p1i1","p1i0",[0,"Misión y Visión","","",-1,-1,0,"misionvision.html"],80,0);
+stm_aix("p1i2","p1i0",[0,"Ubicación","","",-1,-1,0,"ubicacion.html"],80,0);
+stm_ep();
+stm_aix("p0i2","p0i0",[]);
+stm_aix("p0i3","p0i1",[0,"Oferta Educativa"],72,23);
+stm_bpx("p2","p1",[]);
+stm_aix("p2i0","p1i0",[0,"Licenciaturas","","",-1,-1,0,"#"],100,0);
+stm_bpx("p3","p1",[1,2]);
+stm_aix("p3i0","p1i0",[0,"Informática Administrativa","","",-1,-1,0,"licinfo.html"],100,0);
+stm_aix("p3i1","p1i0",[0,"Contaduría y Finanzas","","",-1,-1,0,"licconta.html"],100,0);
+stm_aix("p3i2","p1i0",[0,"Derecho","","",-1,-1,0,"licderecho.html"],100,0);
+stm_ep();
+stm_aix("p2i1","p2i0",[0,"Posgrados"],100,0);
+stm_bpx("p4","p3",[]);
+stm_aix("p4i0","p1i0",[0,"Maestría en Tecnologías de la Información","","",-1,-1,0,"maestria_ti.html"],100,0);
+stm_ep();
+stm_ep();
+stm_aix("p0i4","p0i0",[]);
+stm_aix("p0i5","p0i1",[0,"Informes e Inscripciones"],72,23);
+stm_bpx("p5","p1",[]);
+stm_aix("p5i0","p1i0",[0,"Requisitos de Inscripción","","",-1,-1,0,"requisitos.html"],80,0);
+stm_aix("p5i1","p1i0",[0,"Descargar Formatos","","",-1,-1,0,"formatos.html"],80,0);
+stm_ep();
+stm_aix("p0i6","p0i0",[]);
+stm_aix("p0i7","p0i1",[0,"Portal de Alumnos","","",-1,-1,0,"construccion.html"],72,23);
+stm_ep();
+stm_sc(1,["transparent","transparent","","",3,3,0,0,"#fffff7 #fffff7 #fffff7 #fffff7","#000000 #000000 #000000 #000000","up_disabled.gif","up_enabled.gif",7,9,0,"down_disabled.gif","down_enabled.gif",7,9,0,0,1]);
+stm_em();
+//-->
+</script> </td>
+        </tr>
+
+      <tr>
+        <td width="160" height="431" rowspan="2" align="center" valign="top" bgcolor="#FFFFFF" class="navega"><img src="imagenes/bannerLat2.png" width="160" height="431" /></td>
+        <td height="400" colspan="4" align="center" valign="top" bgcolor="#FFFFFF" class="navega"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td height="31" align="left" valign="top"><img src="imagenes/horariosTitle.png" width="350" height="31" /></td>
+          </tr>
+          <tr>
+            <td height="369" align="center" valign="top"><table width="630" border="0" cellspacing="0" cellpadding="0">
+              
+              <tr>
+                <td valign="top">
+></td>
+              </tr>
+              <tr>
+                <td valign="top"><p align="center" class="Estilo4">POR AHORA ESTA SECCION NO CONTIENE INFORMACI&Oacute;N. </p>
+                  <p align="center" class="Estilo4">PRONTO TENDREMOS NUEVOS DATOS PARA COMPARTIR. </p></td>
+              </tr>
+              
+            </table></td>
+          </tr>
+        </table></td>
+      </tr>
+      <tr>
+        <td height="31" colspan="4" align="center" valign="middle" bgcolor="#FFFFFF"><a href="horarios.html" class="navegafooter">Horarios y calendarios </a> | <a href="galerias.html" class="navegafooter" >G@ler&iacute;as</a> | <a href="construccion.html" class="navegafooter">Portal de alumnos</a> </td>
+      </tr>
+    </table></td>
+    <td width="20" background="imagenes/fndDer.png">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="50" colspan="3" align="center" valign="middle" bgcolor="#932728"><div align="center" class="footer">
+      <p>Centro Universitario de Negocios del Baj&iacute;o<br />
+        Boulevard Las Reynas #100<br />
+        Fracc. Las Reynas, Salamanca, Gto. <br />
+        Tel./Fax. (464) 641-05-78 y 641-02-20 </p>
+      </div></td>
+  </tr>
+</table>
+<p>&nbsp;</p>
+</body>
+</html>

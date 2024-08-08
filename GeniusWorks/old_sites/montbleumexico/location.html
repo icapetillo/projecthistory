@@ -1,0 +1,33 @@
+<!--
+To change this template, choose Tools | Templates
+and open the template in the editor.
+-->
+<!DOCTYPE html>
+<html>
+    <head>
+        <title></title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">        
+    </head>
+    <body>
+        <script language="javascript">
+
+            function obtener_localizacion() {                
+                if (navigator.geolocation){                    
+                    navigator.geolocation.getCurrentPosition(coordenadas);
+                } else {
+                    alert("No hay soporte para geolocalización");
+                }            
+            }
+
+            function coordenadas(position) {
+            var latitud = position.coords.latitude;
+            var longitud = position.coords.longitude;
+            alert('Tus coordenadas son: (' + latitud + ',' + longitud + ')');
+            document.getElementById("resultado").innerHTML = "Latitud: " + latitud + "<br/> Longitud: " + longitud;
+            }
+        </script>
+
+        <a href="javascript:obtener_localizacion();">Mostrar coordenadas</a>
+        <div id="resultado"></div>
+    </body>
+</html>

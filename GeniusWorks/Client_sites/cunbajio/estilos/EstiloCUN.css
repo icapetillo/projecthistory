@@ -1,0 +1,50 @@
+.navega {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: x-small;
+	font-weight: bold;
+	color:#CCCCCC;
+	text-decoration: none;
+}
+.navega:hover {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: x-small;
+	font-weight: bold;
+	color:#CCCCCC;
+	background:#CC0000;
+	text-decoration:underline;
+}
+.tablaCont {
+	border: thin dotted #666666;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: small;
+	font-style: normal;
+	color: #666666;
+}
+.footers {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: x-small;
+	color: #666666;
+}
+
+.enlacesLic{
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:x-small;
+color:#990000;
+text-decoration:none;
+}
+
+.enlacesLic:hover {
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:x-small;
+font-weight:bold;
+color:#CC3300;
+text-decoration:underline;
+background-color:#FF9900;
+}
+
+.parrafos {
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:smaller;
+color:#000000;
+background-color:#CCCCCC;
+}

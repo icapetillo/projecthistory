@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<flash_parameters copyright="socusoftFSMTheme">
+    <preferences>
+        <global>
+            <basic_property movieWidth="480" movieHeight="400" groundinsize="2" html_title="Title" loadStyle="Bar" startAutoPlay="true" continuum="true" socusoftMenu="false" backgroundColor="0xff0000" inbordercolor="0xff57ff" hideAdobeMenu="true" photoDynamicShow="true" enableURL="true" transitionArray=""/>
+            <title_property showTitle="false" photoTitleColor="0x00ff00" backgroundColor="0x008000" alpha="100" autoHide="true"/>
+            <music_property path="" stream="true" loop="true"/>
+            <photo_property topPadding="47" bottomPadding="4" leftPadding="4" rightPadding="4"/>
+            <description_property textleftborder="10" texttopborder="12" enable="false" backgroundColor="0x008000" backgroundAlpha="50"/>
+        </global>
+        <thumbnail>
+            <basic_property thumWidth="60" thumHeight="40" thumbnailposition="top" thumbnailboxboder="2" thumborder="2" thumSpacing="4" borderColor="0xff0000" currentBorderColor="0xffe9ff"/>
+            <button_property btnsize="28" buttonColor="0xffe9e9" btnfiltercolor="0xffe9e9"/>
+            <prview_property prviewWidth="100" prviewHeight="80" showPrview="false" prviewborder="5" prviewbordercolor="0xff0000"/>
+            <contorltext_property HideThumbnails="Esconder miniaturas" Reveal="Mostrar miniaturas" textcolor="0xffa0ff"/>
+        </thumbnail>
+    </preferences>
+    <album>
+        <slide jpegURL="thumbs/t_0001.jpg" d_URL="slides/p_0001.jpg" transition="0" panzoom="1" URLTarget="0" phototime="2" url="" title="Seguridad Vigila" width="472" height="349"/>
+        <slide jpegURL="thumbs/t_0002.jpg" d_URL="slides/p_0002.jpg" transition="0" panzoom="1" URLTarget="0" phototime="2" url="" title="Seguridad Vigila" width="472" height="349"/>
+        <slide jpegURL="thumbs/t_0003.jpg" d_URL="slides/p_0003.jpg" transition="0" panzoom="1" URLTarget="0" phototime="2" url="" title="Seguridad Vigila" width="472" height="349"/>
+        <slide jpegURL="thumbs/t_0004.jpg" d_URL="slides/p_0004.jpg" transition="0" panzoom="1" URLTarget="0" phototime="2" url="" title="Seguridad Vigila" width="472" height="349"/>
+        <slide jpegURL="thumbs/t_0005.jpg" d_URL="slides/p_0005.jpg" transition="0" panzoom="1" URLTarget="0" phototime="2" url="" title="Seguridad Vigila" width="472" height="349"/>
+        <slide jpegURL="thumbs/t_0006.jpg" d_URL="slides/p_0006.jpg" transition="0" panzoom="1" URLTarget="0" phototime="2" url="" title="Seguridad Vigila" width="472" height="349"/>
+        <slide jpegURL="thumbs/t_0007.jpg" d_URL="slides/p_0007.jpg" transition="0" panzoom="1" URLTarget="0" phototime="2" url="" title="Seguridad Vigila" width="472" height="349"/>
+        <slide jpegURL="thumbs/t_0008.jpg" d_URL="slides/p_0008.jpg" transition="0" panzoom="1" URLTarget="0" phototime="2" url="" title="Seguridad Vigila" width="472" height="349"/>
+        <slide jpegURL="thumbs/t_0009.jpg" d_URL="slides/p_0009.jpg" transition="0" panzoom="1" URLTarget="0" phototime="2" url="" title="Seguridad Vigila" width="472" height="349"/>
+        <slide jpegURL="thumbs/t_0010.jpg" d_URL="slides/p_0010.jpg" transition="0" panzoom="1" URLTarget="0" phototime="2" url="" title="Seguridad Vigila" width="472" height="349"/>
+        <slide jpegURL="thumbs/t_0011.jpg" d_URL="slides/p_0011.jpg" transition="0" panzoom="1" URLTarget="0" phototime="2" url="" title="Seguridad Vigila" width="472" height="349"/>
+        <slide jpegURL="thumbs/t_0012.jpg" d_URL="slides/p_0012.jpg" transition="0" panzoom="1" URLTarget="0" phototime="2" url="" title="Seguridad Vigila" width="472" height="349"/>
+        <slide jpegURL="thumbs/t_0013.jpg" d_URL="slides/p_0013.jpg" transition="0" panzoom="1" URLTarget="0" phototime="2" url="" title="Seguridad Vigila" width="472" height="349"/>
+        <slide jpegURL="thumbs/t_0014.jpg" d_URL="slides/p_0014.jpg" transition="0" panzoom="1" URLTarget="0" phototime="2" url="" title="Seguridad Vigila" width="472" height="349"/>
+        <slide jpegURL="thumbs/t_0015.jpg" d_URL="slides/p_0015.jpg" transition="0" panzoom="1" URLTarget="0" phototime="2" url="" title="Seguridad Vigila" width="472" height="349"/>
+        <slide jpegURL="thumbs/t_0016.jpg" d_URL="slides/p_0016.jpg" transition="0" panzoom="1" URLTarget="0" phototime="2" url="" title="Seguridad Vigila" width="472" height="349"/>
+        <slide jpegURL="thumbs/t_0017.jpg" d_URL="slides/p_0017.jpg" transition="0" panzoom="1" URLTarget="0" phototime="2" url="" title="Seguridad Vigila" width="472" height="349"/>
+        <slide jpegURL="thumbs/t_0018.jpg" d_URL="slides/p_0018.jpg" transition="0" panzoom="1" URLTarget="0" phototime="2" url="" title="Seguridad Vigila" width="472" height="349"/>
+        <slide jpegURL="thumbs/t_0019.jpg" d_URL="slides/p_0019.jpg" transition="0" panzoom="1" URLTarget="0" phototime="2" url="" title="Seguridad Vigila" width="472" height="349"/>
+        <slide jpegURL="thumbs/t_0020.jpg" d_URL="slides/p_0020.jpg" transition="0" panzoom="1" URLTarget="0" phototime="2" url="" title="Seguridad Vigila" width="472" height="349"/>
+        <slide jpegURL="thumbs/t_0021.jpg" d_URL="slides/p_0021.jpg" transition="0" panzoom="1" URLTarget="0" phototime="2" url="" title="Seguridad Vigila" width="472" height="349"/>
+        <slide jpegURL="thumbs/t_0022.jpg" d_URL="slides/p_0022.jpg" transition="0" panzoom="1" URLTarget="0" phototime="2" url="" title="Seguridad Vigila" width="472" height="349"/>
+        <slide jpegURL="thumbs/t_0023.jpg" d_URL="slides/p_0023.jpg" transition="0" panzoom="1" URLTarget="0" phototime="2" url="" title="Seguridad Vigila" width="472" height="349"/>
+        <slide jpegURL="thumbs/t_0024.jpg" d_URL="slides/p_0024.jpg" transition="0" panzoom="1" URLTarget="0" phototime="2" url="" title="Seguridad Vigila" width="472" height="349"/>
+    </album>
+</flash_parameters>

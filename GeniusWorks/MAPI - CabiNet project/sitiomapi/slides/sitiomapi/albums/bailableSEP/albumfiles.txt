@@ -1,0 +1,28 @@
+# This file is created by JAlbum. It sets custom file filtering and ordering for this image directory.
+# Each row indicate a file and it's order. Files not listed here are added to the end of the album
+# Rows beginning with "-" indicate excluded files.
+# Rows containing a tab character indicate links, where the text before the tab is the logical file name
+# and the path to the right is the target path.
+# Note: This file allows absolute paths to files and directories in other locations and thereby
+# allows you to compile albums consisting of files from several different locations.
+
+DSCF7437.jpg	D:\Mis documentos\Websites\sitiomapi\albums\bailableSEP\DSCF7437.jpg
+DSCF7438.jpg	D:\Mis documentos\Websites\sitiomapi\albums\bailableSEP\DSCF7438.jpg
+DSCF7439.jpg	D:\Mis documentos\Websites\sitiomapi\albums\bailableSEP\DSCF7439.jpg
+DSCF7440.jpg	D:\Mis documentos\Websites\sitiomapi\albums\bailableSEP\DSCF7440.jpg
+DSCF7441.jpg	D:\Mis documentos\Websites\sitiomapi\albums\bailableSEP\DSCF7441.jpg
+DSCF7442.jpg	D:\Mis documentos\Websites\sitiomapi\albums\bailableSEP\DSCF7442.jpg
+DSCF7443.jpg	D:\Mis documentos\Websites\sitiomapi\albums\bailableSEP\DSCF7443.jpg
+DSCF7444.jpg	D:\Mis documentos\Websites\sitiomapi\albums\bailableSEP\DSCF7444.jpg
+DSCF7445.jpg	D:\Mis documentos\Websites\sitiomapi\albums\bailableSEP\DSCF7445.jpg
+DSCF7446.jpg	D:\Mis documentos\Websites\sitiomapi\albums\bailableSEP\DSCF7446.jpg
+DSCF7447.jpg	D:\Mis documentos\Websites\sitiomapi\albums\bailableSEP\DSCF7447.jpg
+DSCF7448.jpg	D:\Mis documentos\Websites\sitiomapi\albums\bailableSEP\DSCF7448.jpg
+DSCF7449.jpg	D:\Mis documentos\Websites\sitiomapi\albums\bailableSEP\DSCF7449.jpg
+DSCF7450.jpg	D:\Mis documentos\Websites\sitiomapi\albums\bailableSEP\DSCF7450.jpg
+DSCF7451.jpg	D:\Mis documentos\Websites\sitiomapi\albums\bailableSEP\DSCF7451.jpg
+DSCF7452.jpg	D:\Mis documentos\Websites\sitiomapi\albums\bailableSEP\DSCF7452.jpg
+DSCF7453.jpg	D:\Mis documentos\Websites\sitiomapi\albums\bailableSEP\DSCF7453.jpg
+DSCF7454.jpg	D:\Mis documentos\Websites\sitiomapi\albums\bailableSEP\DSCF7454.jpg
+DSCF7455.jpg	D:\Mis documentos\Websites\sitiomapi\albums\bailableSEP\DSCF7455.jpg
+DSCF7456.jpg	D:\Mis documentos\Websites\sitiomapi\albums\bailableSEP\DSCF7456.jpg

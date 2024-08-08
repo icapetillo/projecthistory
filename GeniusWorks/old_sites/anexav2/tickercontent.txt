@@ -1,0 +1,10 @@
+<!--Wrap each ticker cotent inside <div class="message"> tag -->
+
+<div class=message><b><i><font size=2 color=red>Hola Master</font></i></b></div
+<div class=message><b><i><font size=2 color=red>Titulototote</font></i></b><br>TEXTO DEL AVISO NUEVO</div>
+
+<div class=message><b><i>GREEN LANTERN IS MY HOMIE</i></b><br>EL MONIGOTE IS IN DA JAUS</div>
+
+<div class=message><b><i>USANDO APLICACION</i></b><br>Este aviso se escribio usando la nueva aplicacion para la publicación de avisos web.</div>
+
+<div class=message><b><i><font face=Arial color=red size=3>PROBANDO DE NUEVO</font></i></b><br>esta es una prueba de avisos</div>

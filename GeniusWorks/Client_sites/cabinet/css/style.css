@@ -1,0 +1,356 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+html, body {height: 100%;}
+
+@font-face {
+    font-family: 'ColaborateThinRegular';
+    src: url('../fonts/ColabThi-webfont.eot');
+    src: url('../fonts/ColabThi-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/ColabThi-webfont.woff') format('woff'),
+         url('../fonts/ColabThi-webfont.ttf') format('truetype'),
+         url('../fonts/ColabThi-webfont.svg#ColaborateThinRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'ColaborateLightRegular';
+    src: url('../fonts/ColabLig-webfont.eot');
+    src: url('../fonts/ColabLig-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/ColabLig-webfont.woff') format('woff'),
+         url('../fonts/ColabLig-webfont.ttf') format('truetype'),
+         url('../fonts/ColabLig-webfont.svg#ColaborateLightRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'ColaborateRegular';
+    src: url('../fonts/ColabReg-webfont.eot');
+    src: url('../fonts/ColabReg-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/ColabReg-webfont.woff') format('woff'),
+         url('../fonts/ColabReg-webfont.ttf') format('truetype'),
+         url('../fonts/ColabReg-webfont.svg#ColaborateRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'ColaborateMediumRegular';
+    src: url('../fonts/ColabMed-webfont.eot');
+    src: url('../fonts/ColabMed-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/ColabMed-webfont.woff') format('woff'),
+         url('../fonts/ColabMed-webfont.ttf') format('truetype'),
+         url('../fonts/ColabMed-webfont.svg#ColaborateMediumRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'ColaborateBoldRegular';
+    src: url('../fonts/ColabBol-webfont.eot');
+    src: url('../fonts/ColabBol-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/ColabBol-webfont.woff') format('woff'),
+         url('../fonts/ColabBol-webfont.ttf') format('truetype'),
+         url('../fonts/ColabBol-webfont.svg#ColaborateBoldRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+#welcome{
+    /*Tamaño y ubicación*/
+    position: relative;
+    margin: 80px auto;
+    width: 800px;
+    height: 500px;
+}
+
+#welcome_left{
+    /*Tamaño y ubicación*/    
+    width: 390px;
+    height: 490px;
+    float: left;
+}
+
+#welcome_pic{
+    display: inline-block;
+}
+
+#welcome_text{
+    /*Tamaño y ubicación*/    
+    width: 380px;
+    height: 100px;
+    display: inline-block;
+    margin-top: -5px;
+
+    /*Apariencia*/
+    background-color: #B31F02;
+
+    /*Contenido*/
+    color:#fff;
+    font-family: ColaborateThinRegular;
+    font-size: 1.1em;
+    padding: 15px 5px 0px 5px;
+    text-align: justify;
+}
+
+.cabinet_logo_small{
+    height: 20px;
+    width: 100px;
+    float: right;
+    margin-bottom: 3px;  
+}
+
+#welcome_right{
+    /*Tamaño y ubicación*/    
+    width: 380px;
+    height: 490px;
+    float: right;
+
+    /*Apariencia*/
+   
+}
+
+#info_escuela{
+    /*Tamaño y ubicación*/    
+    width: 380px;
+    height: 100px;
+    display: inline-block;
+    margin: 0;
+
+    /*Apariencia*/
+    background-color: #fff;
+    border-bottom: 1px #B31F02 solid;
+}
+
+#form_login{
+    
+    margin: 10px;
+    padding: 5px;
+    font-family: ColaborateThinRegular;
+}
+
+.inputdata{
+    border: 1px silver solid;
+    width: 180px;
+    height: 25px;
+    font-family: ColaborateThinRegular;
+    font-size: 0.9em;
+    padding: 5px;
+}
+
+.inputdata:focus{
+    border:1px #B31F02 solid;
+}
+
+.loginbutton{
+    /*Tamaño y ubicación*/   
+    height: 30px;
+    padding: 10px 30px 10px 30px;
+    margin-right: 10px;
+
+    /*Apariencia*/
+    background-color: #B31F02;
+    
+    /*Contenido*/
+    color: #fff;
+    font-family: ColaborateThinRegular;
+    font-size: 14px;    
+    text-align: center;
+    text-decoration: none;    
+    font-weight: bold;
+}
+
+.loginbutton:hover {
+    /*Tamaño y ubicación*/   
+    height: 30px;
+    padding: 10px 30px 10px 30px;
+    margin-right: 10px;
+
+    /*Apariencia*/
+    background-color: #C72100;
+    
+    /*Contenido*/
+    color: #fff;
+    font-family: ColaborateThinRegular;
+    font-size: 14px;    
+    text-align: center;
+    text-decoration: none;    
+    font-weight: bold;
+}
+
+.enlaces{
+    color: #B31F02;
+    font-size: 14px;
+    text-decoration: none;    
+}
+
+.enlaces:hover{   
+    text-decoration: underline;    
+}
+
+.mini{
+    font-size: 12px;
+}
+
+.mini:hover{
+    font-size: 12px;
+}
+
+.smalltext{
+    color: gray;
+    font-size: 12px;
+    text-align:center;
+    text-decoration: none;
+}
+
+.smalltext:hover{
+    color: #B31F02;
+}
+
+
+#top_bar{
+    /*Tamaño y ubicación*/
+    margin-top: 0px;
+    height: 50px;
+    width: 100%;
+
+    /*Apariencia*/
+    background-color: #B31F02;
+}
+
+#cablogo{
+    /*Tamaño y ubicación*/
+    margin-top: 10px;
+    float: left;
+    padding:5px;
+     
+     /*Contenido*/
+    color: #fff;
+    font-family: ColaborateThinRegular;
+    font-size: 1em;
+}
+
+#encabezado{
+    width: 1000px;
+    margin: 0 auto;
+}
+
+#datosusuario{
+    /*Tamaño y ubicación*/
+    float: right;
+    padding:10px;
+    
+    /*Apariencia*/
+    color: #fff;
+    font-family: ColaborateThinRegular, Verdana;
+    font-size: 14px;
+    text-align: right;
+}
+
+#datosusuario:hover{
+    /*Tamaño y ubicación*/
+    float: right;
+    padding:10px;
+    
+    /*Apariencia*/
+    background-color: #C72100;
+    color: #fff;
+    font-family: ColaborateThinRegular, Verdana;
+    font-size: 14px;
+    text-align: right;
+}
+
+
+#contenedor{
+    width: 1000px;
+    height: 650px;
+    margin:0 auto;
+}
+
+#lateral{
+    float: left;
+    width: 200px;
+    background-color: transparent;
+    height: 650px;
+    margin-left: 0px;
+    margin-right: 50px;
+    border-right: 1px #C72100 solid;
+}
+
+#contenido{    
+    padding: 20px;
+    height: 650px;
+    width: 1000px;
+    margin: 0px;
+}
+
+
+#accordion {width:190px; margin:20px auto}
+.accordion {width:190px; font:14px ColaborateThinRegular,Verdana,Arial; color:#B31F02}
+.accordion dt {
+    width:170px; border:1px solid #B31F02; padding:8px; font-weight:bold; margin-top:5px; cursor:pointer;
+    background: #eeeeee; /* Old browsers */
+    background: -moz-linear-gradient(top,  #eeeeee 0%, #cccccc 100%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#eeeeee), color-stop(100%,#cccccc)); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top,  #eeeeee 0%,#cccccc 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top,  #eeeeee 0%,#cccccc 100%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top,  #eeeeee 0%,#cccccc 100%); /* IE10+ */
+    background: linear-gradient(to bottom,  #eeeeee 0%,#cccccc 100%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#eeeeee', endColorstr='#cccccc',GradientType=0 ); /* IE6-9 */    
+}
+.accordion dt:hover {
+    background: #e2e2e2; /* Old browsers */
+    background: -moz-linear-gradient(top,  #e2e2e2 0%, #dbdbdb 50%, #d1d1d1 51%, #fefefe 100%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#e2e2e2), color-stop(50%,#dbdbdb), color-stop(51%,#d1d1d1), color-stop(100%,#fefefe)); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top,  #e2e2e2 0%,#dbdbdb 50%,#d1d1d1 51%,#fefefe 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top,  #e2e2e2 0%,#dbdbdb 50%,#d1d1d1 51%,#fefefe 100%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top,  #e2e2e2 0%,#dbdbdb 50%,#d1d1d1 51%,#fefefe 100%); /* IE10+ */
+    background: linear-gradient(to bottom,  #e2e2e2 0%,#dbdbdb 50%,#d1d1d1 51%,#fefefe 100%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e2e2e2', endColorstr='#fefefe',GradientType=0 ); /* IE6-9 */    
+}
+.accordion dd {overflow:hidden; background:transparent;}
+.accordion span {display:block; width:150px;  border-top:none; padding:15px}
+
+.submenu{
+    list-style: none;
+    margin-left: 10px;
+}
+
+.submenu li a{
+    display: block;
+    color: #B31F02;
+    height: 30px;   
+    width: 190px;
+    line-height: 30px;
+    text-decoration: none;
+   padding: 5px;
+}
+
+.submenu li a:hover{
+    background-color: #B31F02;
+    color: #fff;
+    -webkit-transition-property: background-color;
+    -webkit-transition-duration:.4s;
+    -webkit-transition-timing-function: ease, ease, linear, linear;
+    -moz-transition-property: background-color, color;
+    -moz-transition-duration:.4s;
+    -moz-transition-timing-function: ease, ease, linear, linear;  
+}
+
+
+#pie{
+    width: 100%;
+    height: 50px;
+    border-top: 1px solid silver;
+    background-color: transparent; 
+}

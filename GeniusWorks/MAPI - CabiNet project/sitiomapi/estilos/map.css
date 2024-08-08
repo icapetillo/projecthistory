@@ -1,0 +1,111 @@
+body{
+height:1100px;
+background:url(../imagenes/fndPag.jpg);
+background-color:#4DA5FF;
+background-attachment:scroll;
+
+}
+
+.avisos{
+	position:absolute;
+	width:300px;
+	height:250px;
+	background-color:#FFF;
+	border:#000;
+	border-style:solid;
+	border-width:medium;
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:12px;
+	text-align:justify;
+	}
+
+
+.enlaces{
+font-family:Arial, Helvetica, sans-serif;
+font-size:12px;
+font-weight:bold;
+color:#FFFFFF;
+text-decoration:none;
+}
+
+.enlaces:hover{
+text-decoration:none;
+color:#FC0;
+font-family:Arial, Helvetica, sans-serif;
+font-size:12px;
+font-weight:bold;
+}
+
+.textos{
+font-family:Georgia, "Times New Roman", Times, serif;
+font-size:12px;
+color:#333333;
+}
+
+.titulos_textos{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:16px;
+	font-weight:bolder;
+	color:#C30;
+	text-decoration:none;
+}
+
+.titulos_secciones{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:24px;
+	font-weight:bolder;
+	color:#C30;
+}
+
+.tablasLaterales{
+	border:1px solid #BFD9FF;
+}
+
+.enlacesTablasLat{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:14px;
+	color:#333;
+	text-decoration:none;
+	text-align:justify;
+}
+
+.enlacesTablasLat:hover{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:14px;
+	color:#F90;
+	text-decoration:underline;
+	text-align: justify;
+}
+
+.acceso_maestros{
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:9px;
+	color:#333;
+}
+
+#ficha{
+	background-color:#FF9;
+	color:#333;
+	font-family:Arial, Helvetica, sans-serif;
+	border:solid 2px #F60;
+	}
+
+.titulos_ficha{
+	font-size:large;
+	font-weight:bold;
+	color:#900;
+	padding-left:10px;
+	}
+
+.etiquetas_ficha{
+	font-size:small;
+	font-weight:bold;
+	background-color:#F93;
+	}
+
+.controles_ficha{
+	font-size:small;
+	font-family:Georgia, "Times New Roman", Times, serif;
+	color:#003;
+	background-color:#9CF;
+	}

@@ -1,0 +1,134 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	background-image:url(../../images/fondo.jpg);
+	margin-bottom:0;
+	margin-top:0;
+	font-family:"Lucida Grande", "Lucida Sans Unicode", Verdana, Arial, Helvetica, sans-serif;
+
+}
+
+p, h1, form, button{border:0; margin:0; padding:0;}
+.spacer{clear:both; height:1px;}
+
+/* ———– My Form ———– */
+.myform{
+margin:0 auto;
+width:400px;
+padding:14px;
+}
+
+.mainMenu{
+	color:#600;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:larger;
+	font-weight:900;
+	text-decoration:none;
+	}
+
+.mainMenu:hover {
+	color:#F00;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:larger;
+	font-weight:900;
+	text-decoration:underline;
+	}
+	
+.footer{
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:x-small;
+	color:#CCC;
+	text-align:right;
+	}
+	
+.table_titles{
+	font-family::"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	background-color:#900;
+	color:#FFF;
+	text-align:center;
+	}
+
+.table_rows{
+	font-family::"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size:small;
+	color:#333;
+	}
+
+.projet{
+	font-family::"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size:small;
+	font-style:italic;
+	font-weight:bold;
+	color:#930;
+	}
+
+.lirelasuite{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:medium;
+	font-weight:bold;
+	color:#900;
+	text-align:center;
+	text-decoration:none;
+	}
+
+.lirelasuite:hover {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:medium;
+	font-weight:bold;
+	color:#900;
+	text-align:center;
+	text-decoration:underline;
+	}
+
+
+/* ———– stylized ———– */
+#stylized{
+border:solid 2px #900;
+background:#FF6;
+}
+#stylized h1 {
+font-size:14px;
+font-weight:bold;
+margin-bottom:8px;
+}
+#stylized p{
+font-size:11px;
+color:#666666;
+margin-bottom:20px;
+border-bottom:solid 1px #900;
+padding-bottom:10px;
+}
+#stylized label{
+display:block;
+font-weight:bold;
+text-align:right;
+width:140px;
+float:left;
+}
+#stylized .small{
+color:#666666;
+
+font-size:11px;
+font-weight:normal;
+width:140px;
+}
+#stylized input{
+float:left;
+font-size:12px;
+padding:4px 2px;
+border:solid 1px #900;
+width:200px;
+margin:2px 0 20px 10px;
+}
+#stylized button{
+clear:both;
+width:125px;
+height:31px;
+background:#666666;
+text-align:center;
+line-height:31px;
+color:#FFFFFF;
+font-size:11px;
+font-weight:bold;
+}

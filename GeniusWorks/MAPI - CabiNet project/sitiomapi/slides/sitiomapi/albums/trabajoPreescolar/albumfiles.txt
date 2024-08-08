@@ -1,0 +1,33 @@
+# This file is created by JAlbum. It sets custom file filtering and ordering for this image directory.
+# Each row indicate a file and it's order. Files not listed here are added to the end of the album
+# Rows beginning with "-" indicate excluded files.
+# Rows containing a tab character indicate links, where the text before the tab is the logical file name
+# and the path to the right is the target path.
+# Note: This file allows absolute paths to files and directories in other locations and thereby
+# allows you to compile albums consisting of files from several different locations.
+
+fotos nuevas 050.jpg	D:\Mis documentos\Websites\sitiomapi\albums\trabajoPreescolar\photo\fotos nuevas 050.jpg
+fotos nuevas 051.jpg	D:\Mis documentos\Websites\sitiomapi\albums\trabajoPreescolar\photo\fotos nuevas 051.jpg
+fotos nuevas 052.jpg	D:\Mis documentos\Websites\sitiomapi\albums\trabajoPreescolar\photo\fotos nuevas 052.jpg
+fotos nuevas 053.jpg	D:\Mis documentos\Websites\sitiomapi\albums\trabajoPreescolar\photo\fotos nuevas 053.jpg
+fotos nuevas 054.jpg	D:\Mis documentos\Websites\sitiomapi\albums\trabajoPreescolar\photo\fotos nuevas 054.jpg
+fotos nuevas 055.jpg	D:\Mis documentos\Websites\sitiomapi\albums\trabajoPreescolar\photo\fotos nuevas 055.jpg
+fotos nuevas 056.jpg	D:\Mis documentos\Websites\sitiomapi\albums\trabajoPreescolar\photo\fotos nuevas 056.jpg
+fotos nuevas 057.jpg	D:\Mis documentos\Websites\sitiomapi\albums\trabajoPreescolar\photo\fotos nuevas 057.jpg
+fotos nuevas 058.jpg	D:\Mis documentos\Websites\sitiomapi\albums\trabajoPreescolar\photo\fotos nuevas 058.jpg
+fotos nuevas 059.jpg	D:\Mis documentos\Websites\sitiomapi\albums\trabajoPreescolar\photo\fotos nuevas 059.jpg
+fotos nuevas 060.jpg	D:\Mis documentos\Websites\sitiomapi\albums\trabajoPreescolar\photo\fotos nuevas 060.jpg
+fotos nuevas 061.jpg	D:\Mis documentos\Websites\sitiomapi\albums\trabajoPreescolar\photo\fotos nuevas 061.jpg
+fotos nuevas 062.jpg	D:\Mis documentos\Websites\sitiomapi\albums\trabajoPreescolar\photo\fotos nuevas 062.jpg
+fotos nuevas 063.jpg	D:\Mis documentos\Websites\sitiomapi\albums\trabajoPreescolar\photo\fotos nuevas 063.jpg
+fotos nuevas 064.jpg	D:\Mis documentos\Websites\sitiomapi\albums\trabajoPreescolar\photo\fotos nuevas 064.jpg
+fotos nuevas 065.jpg	D:\Mis documentos\Websites\sitiomapi\albums\trabajoPreescolar\photo\fotos nuevas 065.jpg
+fotos nuevas 066.jpg	D:\Mis documentos\Websites\sitiomapi\albums\trabajoPreescolar\photo\fotos nuevas 066.jpg
+fotos nuevas 067.jpg	D:\Mis documentos\Websites\sitiomapi\albums\trabajoPreescolar\photo\fotos nuevas 067.jpg
+fotos nuevas 068.jpg	D:\Mis documentos\Websites\sitiomapi\albums\trabajoPreescolar\photo\fotos nuevas 068.jpg
+fotos nuevas 044.jpg	D:\Mis documentos\Websites\sitiomapi\albums\trabajoPreescolar\photo\fotos nuevas 044.jpg
+fotos nuevas 045.jpg	D:\Mis documentos\Websites\sitiomapi\albums\trabajoPreescolar\photo\fotos nuevas 045.jpg
+fotos nuevas 046.jpg	D:\Mis documentos\Websites\sitiomapi\albums\trabajoPreescolar\photo\fotos nuevas 046.jpg
+fotos nuevas 047.jpg	D:\Mis documentos\Websites\sitiomapi\albums\trabajoPreescolar\photo\fotos nuevas 047.jpg
+fotos nuevas 048.jpg	D:\Mis documentos\Websites\sitiomapi\albums\trabajoPreescolar\photo\fotos nuevas 048.jpg
+fotos nuevas 049.jpg	D:\Mis documentos\Websites\sitiomapi\albums\trabajoPreescolar\photo\fotos nuevas 049.jpg

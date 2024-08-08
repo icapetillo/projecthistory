@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flash_parameters copyright="sothink">
+	<preferences>
+		<global>
+			<basic_property movieWidth="580" movieHeight="452" startAutoPlay="true" decoration="skin/love1.swf" backgroundColor="0x005080" hideAdobeMenu="false" photoDynamicShow="true" enableURL="true" transitionArray=""/>
+			<title_property showTitle="true" photoTitleColor="0xff0000" backgroundColor="0xffffff" alpha="50" autoHide="true"/>
+			<music_property path="res/" stream="true" loop="true"/>
+			<photo_property photoWidth="480" photoHeight="360" topPadding="18" bottomPadding="79" leftPadding="49" rightPadding="55"/>
+			<description_property backgroundColor="0xffffff" backgroundAlpha="30" color="0xff0000" size="18"/>
+		</global>
+		<thumbnail>
+			<basic_property showPrview="true" buttonColor="0xffffff" borderColor="0xffffff" currentBorderColor="0xffffff"/>
+		</thumbnail>
+	</preferences>
+	<album>
+		<slide d_URL="photo/DSCF7620.jpg" transition="2T8" panzoom="1" URLTarget="0" phototime="2" url="" title="http_imgload"/><slide d_URL="photo/DSCF7621.jpg" transition="2T40" panzoom="1" URLTarget="0" phototime="2" url="" title="http_imgload"/><slide d_URL="photo/DSCF7622.jpg" transition="2T2" panzoom="1" URLTarget="0" phototime="2" url="" title="http_imgload"/><slide d_URL="photo/DSCF7623.jpg" transition="1" panzoom="1" URLTarget="0" phototime="2" url="" title="http_imgload"/><slide d_URL="photo/DSCF7624.jpg" transition="2T17" panzoom="1" URLTarget="0" phototime="2" url="" title="http_imgload"/><slide d_URL="photo/DSCF7625.jpg" transition="2T0" panzoom="1" URLTarget="0" phototime="2" url="" title="http_imgload"/></album>
+</flash_parameters>

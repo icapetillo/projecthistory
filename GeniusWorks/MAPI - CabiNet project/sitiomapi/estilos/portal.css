@@ -1,0 +1,65 @@
+@charset "utf-8";
+/* CSS Document */
+
+.loginForm{
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:10px;
+	font-weight:bold;
+	text-decoration:none;
+	text-align:justify;
+	color:#333;
+	
+	}
+
+.titulos_tablas{
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:x-small;
+	text-align:center;
+	background-color:#03C;
+	font-weight:bold;
+	color:#FFF;
+}
+
+.encabezados_boleta{
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:small;
+	text-align:left;
+	background-color:#900;
+	color:#FFF;
+	font-weight:bold;
+}
+
+.datos_alumno{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:smaller;
+	font-weight:bold;
+}
+
+.titulo_boleta{
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:large;
+	font-weight:bold;
+	text-align:center;
+}
+
+.datos_boleta{
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:10px;
+	text-align:center;
+}
+
+.datos_boleta:hover{
+	background-color:#999;
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:10px;
+	text-align:center;
+}
+
+.borde_boleta{
+	border:1px solid #06C;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:9px;
+	text-align:center;
+}
+
+

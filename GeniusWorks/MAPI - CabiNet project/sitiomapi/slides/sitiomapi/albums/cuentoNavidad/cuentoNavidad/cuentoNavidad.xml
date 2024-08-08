@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flash_parameters copyright="sothink">
+	<preferences>
+		<global>
+			<basic_property movieWidth="580" movieHeight="452" startAutoPlay="true" decoration="skin/love1.swf" backgroundColor="0x005080" hideAdobeMenu="false" photoDynamicShow="true" enableURL="true" transitionArray=""/>
+			<title_property showTitle="true" photoTitleColor="0xff0000" backgroundColor="0xffffff" alpha="50" autoHide="true"/>
+			<music_property path="res/" stream="true" loop="true"/>
+			<photo_property photoWidth="480" photoHeight="360" topPadding="18" bottomPadding="79" leftPadding="49" rightPadding="55"/>
+			<description_property backgroundColor="0xffffff" backgroundAlpha="30" color="0xff0000" size="18"/>
+		</global>
+		<thumbnail>
+			<basic_property showPrview="true" buttonColor="0xffffff" borderColor="0xffffff" currentBorderColor="0xffffff"/>
+		</thumbnail>
+	</preferences>
+	<album>
+		<slide d_URL="photo/DSCF7574.jpg" transition="45" panzoom="1" URLTarget="0" phototime="2" url="" title="http_imgload"/><slide d_URL="photo/DSCF7575.jpg" transition="26" panzoom="1" URLTarget="0" phototime="2" url="" title="http_imgload"/><slide d_URL="photo/DSCF7576.jpg" transition="2T38" panzoom="1" URLTarget="0" phototime="2" url="" title="http_imgload"/><slide d_URL="photo/DSCF7577.jpg" transition="2T1" panzoom="1" URLTarget="0" phototime="2" url="" title="http_imgload"/><slide d_URL="photo/DSCF7578.jpg" transition="27" panzoom="1" URLTarget="0" phototime="2" url="" title="http_imgload"/><slide d_URL="photo/DSCF7579.jpg" transition="42" panzoom="1" URLTarget="0" phototime="2" url="" title="http_imgload"/><slide d_URL="photo/DSCF7580.jpg" transition="2T48" panzoom="1" URLTarget="0" phototime="2" url="" title="http_imgload"/><slide d_URL="photo/DSCF7581.jpg" transition="2T4" panzoom="1" URLTarget="0" phototime="2" url="" title="http_imgload"/><slide d_URL="photo/DSCF7582.jpg" transition="2T62" panzoom="1" URLTarget="0" phototime="2" url="" title="http_imgload"/><slide d_URL="photo/DSCF7583.jpg" transition="0" panzoom="1" URLTarget="0" phototime="2" url="" title="http_imgload"/><slide d_URL="photo/DSCF7584.jpg" transition="53" panzoom="1" URLTarget="0" phototime="2" url="" title="http_imgload"/><slide d_URL="photo/DSCF7585.jpg" transition="2T61" panzoom="1" URLTarget="0" phototime="2" url="" title="http_imgload"/><slide d_URL="photo/DSCF7586.jpg" transition="24" panzoom="1" URLTarget="0" phototime="2" url="" title="http_imgload"/><slide d_URL="photo/DSCF7587.jpg" transition="13" panzoom="1" URLTarget="0" phototime="2" url="" title="http_imgload"/><slide d_URL="photo/DSCF7588.jpg" transition="4" panzoom="1" URLTarget="0" phototime="2" url="" title="http_imgload"/><slide d_URL="photo/DSCF7589.jpg" transition="7" panzoom="1" URLTarget="0" phototime="2" url="" title="http_imgload"/><slide d_URL="photo/DSCF7590.jpg" transition="2T15" panzoom="1" URLTarget="0" phototime="2" url="" title="http_imgload"/><slide d_URL="photo/DSCF7591.jpg" transition="2T66" panzoom="1" URLTarget="0" phototime="2" url="" title="http_imgload"/><slide d_URL="photo/DSCF7592.jpg" transition="9" panzoom="1" URLTarget="0" phototime="2" url="" title="http_imgload"/></album>
+</flash_parameters>

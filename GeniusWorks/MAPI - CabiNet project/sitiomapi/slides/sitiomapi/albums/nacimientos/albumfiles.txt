@@ -1,0 +1,73 @@
+# This file is created by JAlbum. It sets custom file filtering and ordering for this image directory.
+# Each row indicate a file and it's order. Files not listed here are added to the end of the album
+# Rows beginning with "-" indicate excluded files.
+# Rows containing a tab character indicate links, where the text before the tab is the logical file name
+# and the path to the right is the target path.
+# Note: This file allows absolute paths to files and directories in other locations and thereby
+# allows you to compile albums consisting of files from several different locations.
+
+fotos nuevas 086.jpg	D:\Mis documentos\Websites\sitiomapi\albums\nacimientos\photo\fotos nuevas 086.jpg
+fotos nuevas 087.jpg	D:\Mis documentos\Websites\sitiomapi\albums\nacimientos\photo\fotos nuevas 087.jpg
+fotos nuevas 088.jpg	D:\Mis documentos\Websites\sitiomapi\albums\nacimientos\photo\fotos nuevas 088.jpg
+fotos nuevas 089.jpg	D:\Mis documentos\Websites\sitiomapi\albums\nacimientos\photo\fotos nuevas 089.jpg
+fotos nuevas 090.jpg	D:\Mis documentos\Websites\sitiomapi\albums\nacimientos\photo\fotos nuevas 090.jpg
+fotos nuevas 091.jpg	D:\Mis documentos\Websites\sitiomapi\albums\nacimientos\photo\fotos nuevas 091.jpg
+fotos nuevas 092.jpg	D:\Mis documentos\Websites\sitiomapi\albums\nacimientos\photo\fotos nuevas 092.jpg
+fotos nuevas 093.jpg	D:\Mis documentos\Websites\sitiomapi\albums\nacimientos\photo\fotos nuevas 093.jpg
+fotos nuevas 094.jpg	D:\Mis documentos\Websites\sitiomapi\albums\nacimientos\photo\fotos nuevas 094.jpg
+fotos nuevas 095.jpg	D:\Mis documentos\Websites\sitiomapi\albums\nacimientos\photo\fotos nuevas 095.jpg
+fotos nuevas 096.jpg	D:\Mis documentos\Websites\sitiomapi\albums\nacimientos\photo\fotos nuevas 096.jpg
+fotos nuevas 097.jpg	D:\Mis documentos\Websites\sitiomapi\albums\nacimientos\photo\fotos nuevas 097.jpg
+fotos nuevas 098.jpg	D:\Mis documentos\Websites\sitiomapi\albums\nacimientos\photo\fotos nuevas 098.jpg
+fotos nuevas 099.jpg	D:\Mis documentos\Websites\sitiomapi\albums\nacimientos\photo\fotos nuevas 099.jpg
+fotos nuevas 100.jpg	D:\Mis documentos\Websites\sitiomapi\albums\nacimientos\photo\fotos nuevas 100.jpg
+fotos nuevas 101.jpg	D:\Mis documentos\Websites\sitiomapi\albums\nacimientos\photo\fotos nuevas 101.jpg
+fotos nuevas 102.jpg	D:\Mis documentos\Websites\sitiomapi\albums\nacimientos\photo\fotos nuevas 102.jpg
+fotos nuevas 103.jpg	D:\Mis documentos\Websites\sitiomapi\albums\nacimientos\photo\fotos nuevas 103.jpg
+fotos nuevas 104.jpg	D:\Mis documentos\Websites\sitiomapi\albums\nacimientos\photo\fotos nuevas 104.jpg
+fotos nuevas 105.jpg	D:\Mis documentos\Websites\sitiomapi\albums\nacimientos\photo\fotos nuevas 105.jpg
+fotos nuevas 106.jpg	D:\Mis documentos\Websites\sitiomapi\albums\nacimientos\photo\fotos nuevas 106.jpg
+fotos nuevas 107.jpg	D:\Mis documentos\Websites\sitiomapi\albums\nacimientos\photo\fotos nuevas 107.jpg
+fotos nuevas 108.jpg	D:\Mis documentos\Websites\sitiomapi\albums\nacimientos\photo\fotos nuevas 108.jpg
+fotos nuevas 109.jpg	D:\Mis documentos\Websites\sitiomapi\albums\nacimientos\photo\fotos nuevas 109.jpg
+fotos nuevas 110.jpg	D:\Mis documentos\Websites\sitiomapi\albums\nacimientos\photo\fotos nuevas 110.jpg
+fotos nuevas 111.jpg	D:\Mis documentos\Websites\sitiomapi\albums\nacimientos\photo\fotos nuevas 111.jpg
+fotos nuevas 112.jpg	D:\Mis documentos\Websites\sitiomapi\albums\nacimientos\photo\fotos nuevas 112.jpg
+fotos nuevas 113.jpg	D:\Mis documentos\Websites\sitiomapi\albums\nacimientos\photo\fotos nuevas 113.jpg
+fotos nuevas 114.jpg	D:\Mis documentos\Websites\sitiomapi\albums\nacimientos\photo\fotos nuevas 114.jpg
+fotos nuevas 115.jpg	D:\Mis documentos\Websites\sitiomapi\albums\nacimientos\photo\fotos nuevas 115.jpg
+fotos nuevas 116.jpg	D:\Mis documentos\Websites\sitiomapi\albums\nacimientos\photo\fotos nuevas 116.jpg
+fotos nuevas 117.jpg	D:\Mis documentos\Websites\sitiomapi\albums\nacimientos\photo\fotos nuevas 117.jpg
+fotos nuevas 118.jpg	D:\Mis documentos\Websites\sitiomapi\albums\nacimientos\photo\fotos nuevas 118.jpg
+fotos nuevas 119.jpg	D:\Mis documentos\Websites\sitiomapi\albums\nacimientos\photo\fotos nuevas 119.jpg
+fotos nuevas 120.jpg	D:\Mis documentos\Websites\sitiomapi\albums\nacimientos\photo\fotos nuevas 120.jpg
+fotos nuevas 121.jpg	D:\Mis documentos\Websites\sitiomapi\albums\nacimientos\photo\fotos nuevas 121.jpg
+fotos nuevas 122.jpg	D:\Mis documentos\Websites\sitiomapi\albums\nacimientos\photo\fotos nuevas 122.jpg
+fotos nuevas 123.jpg	D:\Mis documentos\Websites\sitiomapi\albums\nacimientos\photo\fotos nuevas 123.jpg
+fotos nuevas 124.jpg	D:\Mis documentos\Websites\sitiomapi\albums\nacimientos\photo\fotos nuevas 124.jpg
+fotos nuevas 125.jpg	D:\Mis documentos\Websites\sitiomapi\albums\nacimientos\photo\fotos nuevas 125.jpg
+fotos nuevas 126.jpg	D:\Mis documentos\Websites\sitiomapi\albums\nacimientos\photo\fotos nuevas 126.jpg
+fotos nuevas 127.jpg	D:\Mis documentos\Websites\sitiomapi\albums\nacimientos\photo\fotos nuevas 127.jpg
+fotos nuevas 128.jpg	D:\Mis documentos\Websites\sitiomapi\albums\nacimientos\photo\fotos nuevas 128.jpg
+fotos nuevas 129.jpg	D:\Mis documentos\Websites\sitiomapi\albums\nacimientos\photo\fotos nuevas 129.jpg
+fotos nuevas 130.jpg	D:\Mis documentos\Websites\sitiomapi\albums\nacimientos\photo\fotos nuevas 130.jpg
+fotos nuevas 131.jpg	D:\Mis documentos\Websites\sitiomapi\albums\nacimientos\photo\fotos nuevas 131.jpg
+fotos nuevas 132.jpg	D:\Mis documentos\Websites\sitiomapi\albums\nacimientos\photo\fotos nuevas 132.jpg
+fotos nuevas 133.jpg	D:\Mis documentos\Websites\sitiomapi\albums\nacimientos\photo\fotos nuevas 133.jpg
+fotos nuevas 134.jpg	D:\Mis documentos\Websites\sitiomapi\albums\nacimientos\photo\fotos nuevas 134.jpg
+fotos nuevas 135.jpg	D:\Mis documentos\Websites\sitiomapi\albums\nacimientos\photo\fotos nuevas 135.jpg
+fotos nuevas 136.jpg	D:\Mis documentos\Websites\sitiomapi\albums\nacimientos\photo\fotos nuevas 136.jpg
+fotos nuevas 137.jpg	D:\Mis documentos\Websites\sitiomapi\albums\nacimientos\photo\fotos nuevas 137.jpg
+fotos nuevas 138.jpg	D:\Mis documentos\Websites\sitiomapi\albums\nacimientos\photo\fotos nuevas 138.jpg
+fotos nuevas 139.jpg	D:\Mis documentos\Websites\sitiomapi\albums\nacimientos\photo\fotos nuevas 139.jpg
+fotos nuevas 140.jpg	D:\Mis documentos\Websites\sitiomapi\albums\nacimientos\photo\fotos nuevas 140.jpg
+fotos nuevas 141.jpg	D:\Mis documentos\Websites\sitiomapi\albums\nacimientos\photo\fotos nuevas 141.jpg
+fotos nuevas 142.jpg	D:\Mis documentos\Websites\sitiomapi\albums\nacimientos\photo\fotos nuevas 142.jpg
+fotos nuevas 143.jpg	D:\Mis documentos\Websites\sitiomapi\albums\nacimientos\photo\fotos nuevas 143.jpg
+fotos nuevas 144.jpg	D:\Mis documentos\Websites\sitiomapi\albums\nacimientos\photo\fotos nuevas 144.jpg
+fotos nuevas 145.jpg	D:\Mis documentos\Websites\sitiomapi\albums\nacimientos\photo\fotos nuevas 145.jpg
+fotos nuevas 146.jpg	D:\Mis documentos\Websites\sitiomapi\albums\nacimientos\photo\fotos nuevas 146.jpg
+fotos nuevas 147.jpg	D:\Mis documentos\Websites\sitiomapi\albums\nacimientos\photo\fotos nuevas 147.jpg
+fotos nuevas 148.jpg	D:\Mis documentos\Websites\sitiomapi\albums\nacimientos\photo\fotos nuevas 148.jpg
+fotos nuevas 149.jpg	D:\Mis documentos\Websites\sitiomapi\albums\nacimientos\photo\fotos nuevas 149.jpg
+fotos nuevas 150.jpg	D:\Mis documentos\Websites\sitiomapi\albums\nacimientos\photo\fotos nuevas 150.jpg

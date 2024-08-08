@@ -1,0 +1,68 @@
+# This file is created by JAlbum. It sets custom file filtering and ordering for this image directory.
+# Each row indicate a file and it's order. Files not listed here are added to the end of the album
+# Rows beginning with "-" indicate excluded files.
+# Rows containing a tab character indicate links, where the text before the tab is the logical file name
+# and the path to the right is the target path.
+# Note: This file allows absolute paths to files and directories in other locations and thereby
+# allows you to compile albums consisting of files from several different locations.
+
+fotos nuevas 069.jpg	D:\Mis documentos\Websites\sitiomapi\albums\trabajoPrimaria\photo\fotos nuevas 069.jpg
+fotos nuevas 070.jpg	D:\Mis documentos\Websites\sitiomapi\albums\trabajoPrimaria\photo\fotos nuevas 070.jpg
+fotos nuevas 071.jpg	D:\Mis documentos\Websites\sitiomapi\albums\trabajoPrimaria\photo\fotos nuevas 071.jpg
+fotos nuevas 072.jpg	D:\Mis documentos\Websites\sitiomapi\albums\trabajoPrimaria\photo\fotos nuevas 072.jpg
+fotos nuevas 073.jpg	D:\Mis documentos\Websites\sitiomapi\albums\trabajoPrimaria\photo\fotos nuevas 073.jpg
+fotos nuevas 074.jpg	D:\Mis documentos\Websites\sitiomapi\albums\trabajoPrimaria\photo\fotos nuevas 074.jpg
+fotos nuevas 075.jpg	D:\Mis documentos\Websites\sitiomapi\albums\trabajoPrimaria\photo\fotos nuevas 075.jpg
+fotos nuevas 076.jpg	D:\Mis documentos\Websites\sitiomapi\albums\trabajoPrimaria\photo\fotos nuevas 076.jpg
+fotos nuevas 077.jpg	D:\Mis documentos\Websites\sitiomapi\albums\trabajoPrimaria\photo\fotos nuevas 077.jpg
+fotos nuevas 078.jpg	D:\Mis documentos\Websites\sitiomapi\albums\trabajoPrimaria\photo\fotos nuevas 078.jpg
+fotos nuevas 079.jpg	D:\Mis documentos\Websites\sitiomapi\albums\trabajoPrimaria\photo\fotos nuevas 079.jpg
+fotos nuevas 080.jpg	D:\Mis documentos\Websites\sitiomapi\albums\trabajoPrimaria\photo\fotos nuevas 080.jpg
+fotos nuevas 081.jpg	D:\Mis documentos\Websites\sitiomapi\albums\trabajoPrimaria\photo\fotos nuevas 081.jpg
+fotos nuevas 082.jpg	D:\Mis documentos\Websites\sitiomapi\albums\trabajoPrimaria\photo\fotos nuevas 082.jpg
+fotos nuevas 083.jpg	D:\Mis documentos\Websites\sitiomapi\albums\trabajoPrimaria\photo\fotos nuevas 083.jpg
+fotos nuevas 084.jpg	D:\Mis documentos\Websites\sitiomapi\albums\trabajoPrimaria\photo\fotos nuevas 084.jpg
+fotos nuevas 085.jpg	D:\Mis documentos\Websites\sitiomapi\albums\trabajoPrimaria\photo\fotos nuevas 085.jpg
+fotos nuevas 151.jpg	D:\Mis documentos\Websites\sitiomapi\albums\trabajoPrimaria\photo\fotos nuevas 151.jpg
+fotos nuevas 152.jpg	D:\Mis documentos\Websites\sitiomapi\albums\trabajoPrimaria\photo\fotos nuevas 152.jpg
+fotos nuevas 153.jpg	D:\Mis documentos\Websites\sitiomapi\albums\trabajoPrimaria\photo\fotos nuevas 153.jpg
+fotos nuevas 154.jpg	D:\Mis documentos\Websites\sitiomapi\albums\trabajoPrimaria\photo\fotos nuevas 154.jpg
+fotos nuevas 155.jpg	D:\Mis documentos\Websites\sitiomapi\albums\trabajoPrimaria\photo\fotos nuevas 155.jpg
+fotos nuevas 156.jpg	D:\Mis documentos\Websites\sitiomapi\albums\trabajoPrimaria\photo\fotos nuevas 156.jpg
+fotos nuevas 157.jpg	D:\Mis documentos\Websites\sitiomapi\albums\trabajoPrimaria\photo\fotos nuevas 157.jpg
+fotos nuevas 158.jpg	D:\Mis documentos\Websites\sitiomapi\albums\trabajoPrimaria\photo\fotos nuevas 158.jpg
+fotos nuevas 159.jpg	D:\Mis documentos\Websites\sitiomapi\albums\trabajoPrimaria\photo\fotos nuevas 159.jpg
+fotos nuevas 160.jpg	D:\Mis documentos\Websites\sitiomapi\albums\trabajoPrimaria\photo\fotos nuevas 160.jpg
+fotos nuevas 161.jpg	D:\Mis documentos\Websites\sitiomapi\albums\trabajoPrimaria\photo\fotos nuevas 161.jpg
+fotos nuevas 162.jpg	D:\Mis documentos\Websites\sitiomapi\albums\trabajoPrimaria\photo\fotos nuevas 162.jpg
+fotos nuevas 163.jpg	D:\Mis documentos\Websites\sitiomapi\albums\trabajoPrimaria\photo\fotos nuevas 163.jpg
+fotos nuevas 164.jpg	D:\Mis documentos\Websites\sitiomapi\albums\trabajoPrimaria\photo\fotos nuevas 164.jpg
+fotos nuevas 165.jpg	D:\Mis documentos\Websites\sitiomapi\albums\trabajoPrimaria\photo\fotos nuevas 165.jpg
+fotos nuevas 166.jpg	D:\Mis documentos\Websites\sitiomapi\albums\trabajoPrimaria\photo\fotos nuevas 166.jpg
+fotos nuevas 167.jpg	D:\Mis documentos\Websites\sitiomapi\albums\trabajoPrimaria\photo\fotos nuevas 167.jpg
+fotos nuevas 168.jpg	D:\Mis documentos\Websites\sitiomapi\albums\trabajoPrimaria\photo\fotos nuevas 168.jpg
+fotos nuevas 169.jpg	D:\Mis documentos\Websites\sitiomapi\albums\trabajoPrimaria\photo\fotos nuevas 169.jpg
+fotos nuevas 170.jpg	D:\Mis documentos\Websites\sitiomapi\albums\trabajoPrimaria\photo\fotos nuevas 170.jpg
+fotos nuevas 171.jpg	D:\Mis documentos\Websites\sitiomapi\albums\trabajoPrimaria\photo\fotos nuevas 171.jpg
+fotos nuevas 172.jpg	D:\Mis documentos\Websites\sitiomapi\albums\trabajoPrimaria\photo\fotos nuevas 172.jpg
+fotos nuevas 173.jpg	D:\Mis documentos\Websites\sitiomapi\albums\trabajoPrimaria\photo\fotos nuevas 173.jpg
+fotos nuevas 174.jpg	D:\Mis documentos\Websites\sitiomapi\albums\trabajoPrimaria\photo\fotos nuevas 174.jpg
+fotos nuevas 175.jpg	D:\Mis documentos\Websites\sitiomapi\albums\trabajoPrimaria\photo\fotos nuevas 175.jpg
+fotos nuevas 176.jpg	D:\Mis documentos\Websites\sitiomapi\albums\trabajoPrimaria\photo\fotos nuevas 176.jpg
+fotos nuevas 177.jpg	D:\Mis documentos\Websites\sitiomapi\albums\trabajoPrimaria\photo\fotos nuevas 177.jpg
+fotos nuevas 178.jpg	D:\Mis documentos\Websites\sitiomapi\albums\trabajoPrimaria\photo\fotos nuevas 178.jpg
+fotos nuevas 201.jpg	D:\Mis documentos\Websites\sitiomapi\albums\trabajoPrimaria\photo\fotos nuevas 201.jpg
+fotos nuevas 202.jpg	D:\Mis documentos\Websites\sitiomapi\albums\trabajoPrimaria\photo\fotos nuevas 202.jpg
+fotos nuevas 203.jpg	D:\Mis documentos\Websites\sitiomapi\albums\trabajoPrimaria\photo\fotos nuevas 203.jpg
+fotos nuevas 204.jpg	D:\Mis documentos\Websites\sitiomapi\albums\trabajoPrimaria\photo\fotos nuevas 204.jpg
+fotos nuevas 205.jpg	D:\Mis documentos\Websites\sitiomapi\albums\trabajoPrimaria\photo\fotos nuevas 205.jpg
+fotos nuevas 206.jpg	D:\Mis documentos\Websites\sitiomapi\albums\trabajoPrimaria\photo\fotos nuevas 206.jpg
+fotos nuevas 207.jpg	D:\Mis documentos\Websites\sitiomapi\albums\trabajoPrimaria\photo\fotos nuevas 207.jpg
+fotos nuevas 208.jpg	D:\Mis documentos\Websites\sitiomapi\albums\trabajoPrimaria\photo\fotos nuevas 208.jpg
+fotos nuevas 209.jpg	D:\Mis documentos\Websites\sitiomapi\albums\trabajoPrimaria\photo\fotos nuevas 209.jpg
+fotos nuevas 210.jpg	D:\Mis documentos\Websites\sitiomapi\albums\trabajoPrimaria\photo\fotos nuevas 210.jpg
+fotos nuevas 211.jpg	D:\Mis documentos\Websites\sitiomapi\albums\trabajoPrimaria\photo\fotos nuevas 211.jpg
+fotos nuevas 212.jpg	D:\Mis documentos\Websites\sitiomapi\albums\trabajoPrimaria\photo\fotos nuevas 212.jpg
+fotos nuevas 213.jpg	D:\Mis documentos\Websites\sitiomapi\albums\trabajoPrimaria\photo\fotos nuevas 213.jpg
+fotos nuevas 214.jpg	D:\Mis documentos\Websites\sitiomapi\albums\trabajoPrimaria\photo\fotos nuevas 214.jpg
+fotos nuevas 215.jpg	D:\Mis documentos\Websites\sitiomapi\albums\trabajoPrimaria\photo\fotos nuevas 215.jpg

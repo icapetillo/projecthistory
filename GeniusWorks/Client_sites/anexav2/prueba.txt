@@ -1,0 +1,16 @@
+<div class=message><b><i>Hola Master</i></b></div
+<div class=message><b><i>TITULOTOTOTE</i></b><br>TEXTO DEL AVISO NUEVO</div>
+
+<div class=message><b><i>GREEN LANTERN IS MY HOMIE</i></b><br>EL MONIGOTE IS IN DA JAUS</div>
+
+<div class=message><b><i>ISRAEL</i></b><br>TIENES AVISOS NUEVOS</div>
+
+<div class=message><b><i></i></b><br></div>
+
+<div class=message><b><i>Aviso</i></b><br>Aviso</div>
+
+<div class=message><b><i>Probando</i></b><br>Probando</div>
+
+<div class=message><b><i>Reloaded</i></b><br>Reloaded, does it work?</div>
+
+<div class=message><b><i>Reloaded Again</i></b><br>How 'bout it?</div>

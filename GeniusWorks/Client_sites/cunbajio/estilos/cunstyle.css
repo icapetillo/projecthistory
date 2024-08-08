@@ -1,0 +1,43 @@
+a {
+font-family: Arial, Helvetica, sans-serif;
+	font-size:x-small;
+	font-weight:bold;
+
+}
+
+.navega {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:x-small;
+	font-weight:bold;
+}
+
+.navega:hover {
+background:#FFCC00;
+color:#FFFFFF;
+text-decoration:underline;
+}
+
+.opciones {
+font-family:Arial, Helvetica, sans-serif;
+font-size:x-small;
+font-weight:bold;
+background:#B01C2E;
+color:#FFFFFF;
+}
+
+.opciones:hover {
+background:#FFCC00;
+color:#FFFFFF;
+text-decoration:underline;
+}
+
+.enlaces{
+color:#CCCCCC;
+text-decoration:none;
+}
+
+.enlaces:hover {
+color:#990000;
+text-decoration:underline;
+font-weight:bold;
+}

@@ -1,0 +1,310 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	background-image:url(../images/fondo.jpg);
+	margin-bottom:0;
+	margin-top:0;
+}
+
+.mainMenu{
+	color:#600;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:larger;
+	font-weight:900;
+	text-decoration:none;
+	}
+
+.mainMenu:hover {
+	color:#F00;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:larger;
+	font-weight:900;
+	text-decoration:underline;
+	}
+	
+.footer{
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:x-small;
+	color:#CCC;
+	text-align:right;
+	}
+
+.titer{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:larger;
+	font-weight:bolder;
+	color:#600;
+	}
+	
+.message{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:medium;
+	font-weight:normal;
+	color:#600;
+	text-align:justify;
+	}
+
+.lirelasuite{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:x-small;
+	color:#900;
+	text-align:right;
+	text-decoration:none;
+	}
+
+.lirelasuite:hover {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:x-small;
+	color:#900;
+	text-align:right;
+	text-decoration:underline;
+	}
+	
+#footnote{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:small;
+	font-style:italic;
+	color:#3C6;	
+	}
+
+
+/* Para las fichas técnicas de productos */
+
+.producto_titulo{
+	font-family:"Book Antiqua", Palatino, serif;
+	font-size:x-large;
+	font-weight:bolder;
+	color:#600;	
+	}
+
+.producto_subtitulo{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:small;
+	font-weight:bold;
+	color:#600;
+	}
+
+.producto_descripcion{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:medium;
+	font-weight:normal;
+	color:#600;
+	text-align:justify;
+	}
+
+.texte{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:small;
+	font-weight:bold;
+	color:#600;
+	text-align:justify;
+	padding-left:30px;
+	padding-right:30px;
+	}
+
+p{
+	margin-bottom:5;
+	}
+
+p + p {
+  text-indent: 1.5em;
+  margin-top: 0 
+  }
+
+.smalltext{
+	font-size:x-small;
+	font-family:Arial, Helvetica, sans-serif;
+	font-weight:bold;
+	color:#FFF;
+	}
+
+.smallselect{
+	font-size:x-small;
+	font-family:Arial, Helvetica, sans-serif;
+	font-weight:bold;
+	color:#900;
+	}
+	
+/*Carrito*/
+.carrito{
+	border:solid #FC0 3px;
+	}
+
+.tabla_carrito{
+	border-collapse:separate;
+	border-spacing:4px;
+	}
+	
+.titulo_tabla{
+	background-color:#900;
+	color:#FFF;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:medium;
+	text-align:center;
+	}
+
+.filas_carrito{
+	background-color:#FFF;
+	border:medium dotted;
+	color:#900;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:small;	
+	text-align:center;
+	}
+
+.total_carrito{
+	background-color:#FFF;
+	color:#900;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:medium;
+	font-weight:bold;
+	text-align:center;	
+	}
+
+
+/* Para redondear esquinas */
+
+.spiffy{display:block}
+.spiffy *{
+  display:block;
+  height:1px;
+  overflow:hidden;
+  font-size:.01em;
+  background:#990000}
+.spiffy1{
+  margin-left:1px;
+  margin-right:1px;
+  padding-left:1px;
+  padding-right:1px;
+  border-left:1px solid #990000;
+  border-right:1px solid #990000;/*919191  3f3f3f*/
+  background:#990000}
+.spiffy2{
+  margin-left:1px;
+  margin-right:1px;
+  padding-right:1px;
+  padding-left:1px;
+  border-left:1px solid #990000;
+  border-right:1px solid #990000;
+  background:#990000}
+.spiffy3{
+  margin-left:1px;
+  margin-right:1px;
+  border-left:1px solid #990000;
+  border-right:1px solid #990000;}
+.spiffy4{
+  border-left:1px solid #990000;
+  border-right:1px solid #990000}
+.spiffy5{
+  border-left:1px solid #990000;
+  border-right:1px solid #990000}
+.spiffyfg{
+  background:#990000}
+
+
+/* ———– My Form ———– */
+.myform{
+margin:0 auto;
+width:400px;
+padding:14px;
+}
+
+/* ———– stylized ———– */
+#stylized{
+border:solid 2px #900;
+background:#FF6;
+font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+#stylized h1 {
+font-size:14px;
+font-weight:bold;
+margin-bottom:8px;
+}
+#stylized p{
+font-size:11px;
+color:#666666;
+margin-bottom:20px;
+border-bottom:solid 1px #900;
+padding-bottom:10px;
+}
+#stylized label{
+display:block;
+font-weight:bold;
+text-align:right;
+width:140px;
+float:left;
+}
+#stylized .small{
+color:#666666;
+
+font-size:11px;
+font-weight:normal;
+width:140px;
+}
+#stylized input{
+float:left;
+font-size:12px;
+padding:4px 2px;
+border:solid 1px #900;
+width:200px;
+margin:2px 0 20px 10px;
+}
+#stylized textarea{
+float:left;
+font-size:12px;
+padding:4px 2px;
+border:solid 1px #900;
+width:200px;
+margin:2px 0 20px 10px;
+}
+#stylized button{
+clear:both;
+width:125px;
+height:31px;
+background:#666666;
+text-align:center;
+line-height:31px;
+color:#FFFFFF;
+font-size:11px;
+font-weight:bold;
+}
+
+
+/* skinned select */
+
+div.skinned-select {
+	background: url('../images/skin.png') no-repeat scroll 0pt 100%;
+}
+div.skinned-select select {
+	opacity: 0;
+	filter: alpha(opacity = 0);
+	moz-opacity: 0;
+	position: relative;
+	z-index: 100;
+}
+div.skinned-select .select-text {
+  position: absolute;
+	text-indent: 10px;
+	line-height: 19px;
+	width: 87px;
+	z-index: 1;
+}
+div.skinned-select .select-text,
+div.skinned-select select,
+div.skinned-select select option {
+	width: 85px;
+	font-size: 14px;
+	font-weight:bold;
+	color:#990000;
+}
+
+/* non javascript version select */
+
+.my-skinnable-select select {
+  width: 66px;
+  font-size: 14px;
+  font-weight:bold;
+  border: 1px solid #990000;
+}
+

@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+
+<head>
+	<title>MontBleu M&eacute;xico - Sitio Oficial</title>
+	<!--META-->
+        <meta charset="utf-8" />
+
+	<!--CSS-->
+	<link rel="stylesheet" type="text/css" href="css/infopage.css">
+        <style>
+            * {margin:0px; padding:0px;}
+            .wrap {width:500px; margin:50px auto;}
+            .clear {clear:both;}
+
+            ul.tabs {list-style:none; width:500px;}
+            ul.tabs li:first-child {border-left:1px solid #ccc;}
+            ul.tabs li {float:left; border-right:1px solid #ccc; border-top:1px solid #ccc; background-color:#eee; font-size: 1em;}
+            ul.tabs li.active {border-bottom:1px solid #fff; background-color:#fff; margin-bottom:-1px;}
+            ul.tabs li a {display:block; padding:5px 10px; color:#777; letter-spacing:-1px; outline:none; text-decoration:none; font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;}
+            ul.tabs li.active a {font-weight:600; color:#000;}
+
+            div.tabs_content {width:500px; border:1px solid #ccc;}
+            div.tabs_content > div {padding:20px;}
+        </style>
+	
+	<!--JAVASCRIPT-->
+ 	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>		
+        <script src="js/jTabs.js"></script> 
+        <script>
+        $(document).ready(function(){
+            $("ul.tabs").jTabs({content: ".tabs_content", animate: true});                       
+        });
+        </script>
+
+	
+</head>
+
+<body>
+    <br>    
+    <h2>Dónde comprar</h2>
+    <br>
+    
+    <p class="text">
+        En MontBleu México contamos con la exclusividad de la marca en el País y por tal motivo, podemos ofrecer grandes promociones y descuentos partiendo de nuestros precios más bajos.
+    </p>
+    <br>
+    
+    <p class="text">
+        Actualmente, los artículos de MontBleu, los podrás obtener por medio de pedidos realizados a través de nuestra página Web www.montbleumexico.com donde podrás tener acceso a nuestro catálogo de productos o bien a nuestro correo electrónico montbleumexico@yahoo.com.mx y a los teléfonos Oficina 464 64 17291 (horarios de Oficina de 9:00 a 14:00 Hrs) y al 464 1059391 (horario corrido de 9:00 a 19:00 hrs).
+    </p>
+    <br>
+    
+    <p class="text">
+        Te invitamos a que visites nuestra página de internet y ahí tendrás acceso a nuestra amplia gama de artículos, joyería y accesorios que tenemos para ti.
+    </p>
+    <br>
+</body>
+
+</html>

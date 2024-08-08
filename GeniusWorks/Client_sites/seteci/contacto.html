@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<head>
+	<!-- meta -->
+	<meta content="text/html; charset=ISO-8859-1" http-equiv="content-type">
+	<meta http-equiv="Cache-Control" content="no-cache, mustrevalidate">
+	
+    <!-- css -->
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+    <link rel="stylesheet" type="text/css" href="css/kickstart-buttons.css">
+    
+    <!-- js -->
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+</head>
+
+<body>
+	<div id="contenedor">
+		<div id="encabezado">
+			<div id="logo"><img src="images/logoseteci.png">&nbsp;SERVICIOS TÉCNICOS INDUSTRIALES</div>
+			<div id="datos_contacto">
+				<span class="texto_datos">
+					<img src="images/fb.png" align="absmiddle">&nbsp;<img src="images/tw.png" align="absmiddle">&nbsp;&nbsp;<a class="enlace_datos">Inicio</a> | <a class="enlace_datos">FAQ</a>
+					<br> <img src="images/phone.png" align="absmiddle">&nbsp;&nbsp; Tel. (464) 641.02.98
+					<br> <img src="images/mail.png" align="absmiddle">&nbsp;&nbsp; info@seteci.com.mx
+				</span>
+			</div>
+		</div>
+
+		<div id="navegacion">			
+			<ul class="navmenu">
+				<li class="inicial nav_elem"><a class="inicial" href="index.html">Inicio</a></li>
+				<li class="nav_elem"><a href="nosotros.html">Nosotros</a></li>
+				<li class="nav_elem"><a href="servicios.html">Servicios</a></li>
+				<li class="nav_elem"><a href="clientes.html">Clientes</a></li>
+				<li class="nav_elem"><a href="alianzas.html">Alianzas</a></li>
+				<li><a class="activo final" href="contacto.html">Contacto</a></li>				
+			</ul>	
+		</div>
+
+		<div id="contenido">
+        <center>
+			<table width="870px" border="0" >
+            	<tr height="70px">
+                	<td>
+                    	<div class="texto_gral">En SETECI queremos la oportunidad de servirle. Por ello, ponemos a su disposición el siguiente formulario de contacto para que nos haga llegar sus comentarios, dudas o sugerencias. En breve uno de nuestros representantes se pondrá en contacto con usted para atenderle de manera personalizada. Gracias por su interés en los servicios que ofrece nuestra empresa.</div>
+                    </td>
+                </tr>
+            	<tr align="center">
+                	<td valign="middle">
+                        <div class="contact_form">
+                            <form method="post" name="contacto" id="contacto" action="formmail.php">
+	                            <input type="hidden" name="recipient" value="seend_apr@hotmail.com,israel.capetillo@live.com.mx">
+                                <input type="hidden" name="subject" value="Consulta desde SETECI Web">
+                            	<label for="nombre">Nombre:</label><br>
+                                <input type="text" id="nombre" class="required" name="nombre" /><br><br>
+                                <label for="email">E-mail:</label><br>
+                                <input type="text" id="email" class="required  email" name="email" /><br><br>
+                                <label for="comentario">Comentarios:</label><br>
+                                <textarea id="comentario" name="comentario" rows="3" cols="50"></textarea><br><br>                               
+                                <button type="submit">Enviar comentarios</button>
+                            </form>
+                        </div>
+                    </td>
+                </tr>
+                 
+            </table>
+            </center>	   	        
+		</div>		
+	</div>
+
+	<div id="pie">	
+			::: Salamanca, Guanajuato, 2012. Todos los derechos reservados. ::: <a href="http://www.geniusworksmexico.com" target="_blank"><img src="images/white_gear_small.png" align="absmiddle" border="0"></a> :::
+	</div>
+
+</body>
+
+</html>

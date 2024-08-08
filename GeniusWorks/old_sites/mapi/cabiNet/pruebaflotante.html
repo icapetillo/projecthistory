@@ -1,0 +1,149 @@
+<html>
+<head>
+<script language="javascript" type="text/javascript"><!--
+   
+//Menu flotante by Peter-Paul Koch   
+//Pagina personal del autor: http://www.xs4all.nl/~ppk/js/?version5.html   
+////Este script y otros muchos pueden   
+//descarse on-line de forma gratuita   
+//en El Código: www.elcodigo.com   
+  
+//numero de pixels de separacion con la parte superior de la ventana   
+var theTop = 30   
+  
+var menu, scrollIt   
+  
+//posicion actual   
+var old = theTop   
+//a true, la posición del menu se mantiene a "theTop" pixels, aunque se desplace la pagina verticalmente   
+//a false, el menu es fijo   
+var scrollIt = true   
+  
+//INICIALIZACION   
+function init() {   
+    //obtiene referencia al objeto con el menu   
+    menu = new getObj('menu')   
+    //obtiene si hay que mantenerlo fijo o moverlo, a partir del checkbox del propio menu   
+    scrollIt = (document.layers) ?   
+        document.menu.document.forms[0].elements[0].checked :   
+        document.forms["capamenu"].elements[0].checked  
+    //inicia el proceso que mantiene la posicion a "theTop" pixels   
+    movemenu()   
+}   
+  
+//MOVIMIENTO   
+function movemenu() {   
+    if (scrollIt) {   
+        if (window.innerHeight) {   
+              pos = window.pageYOffset  
+        } else if (document.documentElement && document.documentElement.scrollTop) {   
+            pos = document.documentElement.scrollTop   
+        } else if (document.body) {   
+              pos = document.body.scrollTop   
+        }   
+           
+        if (pos < theTop)   
+            pos = theTop   
+        else  
+            pos += 30   
+        if (pos == old)   
+            menu.style.top = pos + 'px'  
+  
+        old = pos   
+    }   
+       
+    moveID = setTimeout('movemenu()',200)   
+}   
+  
+//OBTENCION DE REFERENCIA AL OBJETO   
+function getObj(name) {   
+  //si soporta DOM Lelvel 2   
+  if (document.getElementById) {   
+    this.obj = document.getElementById(name)   
+    this.style = document.getElementById(name).style  
+  //si soporta el DOM del IE4.x   
+  } else if (document.all) {   
+    this.obj = document.all[name]   
+    this.style = document.all[name].style  
+  //si soporta el DOM del N4.x   
+  } else if (document.layers) {   
+    this.obj = document.layers[name]   
+    this.style = document.layers[name]   
+  }   
+}   
+  
+window.onload = init   
+if (document.captureEvents) {       //N4 requiere invocar la funcion captureEvents   
+    document.captureEvents(Event.LOAD)   
+}   
+  
+  
+  
+// --></script>
+
+<style TYPE="text/css"><!--
+   
+  
+#menu {   
+    position: absolute;   
+    top: 30px;   
+    left: 88%;   
+    font: 12px verdana,arial,helvetica;   
+    color: #0000cc;   
+    background: #eeee00;   
+    padding: 10px;   
+    border: none;   
+    z-index: 5;   
+}   
+  
+/* :visited es necesario porque el menu contiene enlaces internos (#) y el IE los ve como ya visitados */  
+div#menu a, div#menu a:visited {   
+    color: #0000cc;   
+}   
+  
+  
+  
+--><style><style TYPE="text/css" mce_bogus="1">   
+  
+#menu {   
+    position: absolute;   
+    top: 30px;   
+    left: 88%;   
+    font: 12px verdana,arial,helvetica;   
+    color: #0000cc;   
+    background: #eeee00;   
+    padding: 10px;   
+    border: none;   
+    z-index: 5;   
+}   
+  
+/* :visited es necesario porque el menu contiene enlaces internos (#) y el IE los ve como ya visitados */  
+div#menu a, div#menu a:visited {   
+    color: #0000cc;   
+}   
+  
+  
+  </style> 
+
+
+
+</head>
+<body>
+
+<p>En el borde superior derecho debe aparecer un menú flotante de ejemplo.   
+Este menú se construye con una capa HTML en cuyo interior se debe incluir el código   
+HTML necesario para mostrar los enlaces.</p>  
+  
+<!-- Definicion del menu -->  
+<div id="menu">  
+<a href="http://www.elcodigo.com/tutoriales/tutoriales.html">Tutoriales</a><br>  
+<a href="http://www.elcodigo.com/herramientas/herramientas.html">Herramientas</a><br>  
+<hr>  
+<a href="http://www.elcodigo.com">Home</a><br>  
+<form name="capamenu">  
+<input type="checkbox" onClick="scrollIt = !scrollIt" checked>Flotante   
+</form>  
+</div>  
+
+</body>
+</html>

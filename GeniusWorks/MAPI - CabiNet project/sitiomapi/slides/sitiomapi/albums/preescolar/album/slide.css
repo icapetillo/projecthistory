@@ -1,0 +1,28 @@
+body,html
+{
+  font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 10px;
+  color: #b2b2b2;
+  background-color: #191919;
+  overflow-y: hidden;
+  overflow-x: hidden;
+  
+  height: 100%;
+  width: 100%;
+}
+#myContent {
+  height: 100%;
+  overflow-y: hidden;
+  overflow-x: hidden;
+  overflow: hidden;
+  text-align:center;
+}
+#needjavascript
+{
+  font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+  text-align: center;
+  font-size: 24px;
+}

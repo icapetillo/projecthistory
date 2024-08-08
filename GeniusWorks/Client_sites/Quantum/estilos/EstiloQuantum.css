@@ -1,0 +1,29 @@
+body {
+	margin-top:0px;
+}
+.navega {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: x-small;
+	font-weight: bold;
+	color: #666666;
+	text-decoration: none;
+}
+.navega:hover {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: x-small;
+	font-weight: bold;
+	color:#CCCCCC;
+	background:#000099;
+}
+.tablaCont {
+	border: thin dotted #666666;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: small;
+	font-style: normal;
+	color: #666666;
+}
+.footers {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: x-small;
+	color: #666666;
+}

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<java version="1.6.0_20" class="java.beans.XMLDecoder"> 
+ <object class="java.util.HashMap"> 
+  <void method="put"> 
+   <string>_location</string> 
+   <string></string> 
+  </void> 
+  <void method="put"> 
+   <string>filterList</string> 
+   <object class="se.datadosen.jalbum.AlbumObjectProperties$HiddenProperty"> 
+    <void property="property"> 
+     <object class="net.jalbum.filterManager.FilterList"> 
+      <void property="filters"> 
+       <void method="add"> 
+        <object class="net.jalbum.filters.StraightenFilterPlugin"> 
+         <void property="angle"> 
+          <double>90.0</double> 
+         </void> 
+         <void property="angle_out"> 
+          <double>90.0</double> 
+         </void> 
+         <void property="resizeOption"> 
+          <int>1</int> 
+         </void> 
+        </object> 
+       </void> 
+      </void> 
+      <void property="position"> 
+       <int>1</int> 
+      </void> 
+      <void property="versionNumber"> 
+       <int>1</int> 
+      </void> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="put"> 
+   <string>_shopOptions</string> 
+   <string></string> 
+  </void> 
+ </object> 
+</java> 

@@ -1,0 +1,166 @@
+/* FUENTES */
+@font-face {
+    font-family: 'TeXGyreAdventorRegular';
+    src: url('../fonts/texgyreadventor-regular-webfont.eot');
+    src: url('../fonts/texgyreadventor-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/texgyreadventor-regular-webfont.woff') format('woff'),
+         url('../fonts/texgyreadventor-regular-webfont.ttf') format('truetype'),
+         url('../fonts/texgyreadventor-regular-webfont.svg#TeXGyreAdventorRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'Galatia';
+    src: url('../fonts/GalSILR-webfont.eot');
+    src: url('../fonts/GalSILR-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/GalSILR-webfont.woff') format('woff'),
+         url('../fonts/GalSILR-webfont.ttf') format('truetype'),
+         url('../fonts/GalSILR-webfont.svg#GalatiaSILRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'GalatiaBold';
+    src: url('../fonts/GalSILB-webfont.eot');
+    src: url('../fonts/GalSILB-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/GalSILB-webfont.woff') format('woff'),
+         url('../fonts/GalSILB-webfont.ttf') format('truetype'),
+         url('../fonts/GalSILB-webfont.svg#GalatiaSILBold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+body {
+	margin:0;
+}
+
+#topbar{
+	width: 100%;
+	height: 50px;
+	background-color: #fff;
+}
+
+.logomovil{
+	width: 90%;	
+}
+
+#nav_menu{
+	width: 100%;
+	height: 50px;
+	background: #e2e2e2; /* Old browsers */
+	background: -moz-linear-gradient(top,  #e2e2e2 0%, #dbdbdb 50%, #d1d1d1 51%, #fefefe 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#e2e2e2), color-stop(50%,#dbdbdb), color-stop(51%,#d1d1d1), color-stop(100%,#fefefe)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  #e2e2e2 0%,#dbdbdb 50%,#d1d1d1 51%,#fefefe 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  #e2e2e2 0%,#dbdbdb 50%,#d1d1d1 51%,#fefefe 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  #e2e2e2 0%,#dbdbdb 50%,#d1d1d1 51%,#fefefe 100%); /* IE10+ */
+	background: linear-gradient(to bottom,  #e2e2e2 0%,#dbdbdb 50%,#d1d1d1 51%,#fefefe 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e2e2e2', endColorstr='#fefefe',GradientType=0 ); /* IE6-9 */
+}
+
+.boton{
+	display: inline-block;	
+	height: 50px;
+	line-height: 50px;
+ 	font-family: TeXGyreAdventorRegular, Verdana, Sans-Serif;
+ 	font-size: 0.7em;
+ 	color: #666;
+ 	-moz-text-shadow: 1px 1px 1px #fff; 
+ }
+
+#search{
+	width: 100%;
+	height: 80px;  
+
+	background: #fefcea; /* Old browsers */
+	background: -moz-linear-gradient(top,  #fefcea 0%, #ffdb3a 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#fefcea), color-stop(100%,#ffdb3a)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  #fefcea 0%,#ffdb3a 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  #fefcea 0%,#ffdb3a 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  #fefcea 0%,#ffdb3a 100%); /* IE10+ */
+	background: linear-gradient(to bottom,  #fefcea 0%,#ffdb3a 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fefcea', endColorstr='#ffdb3a',GradientType=0 ); /* IE6-9 */
+	border: 1px #ffdb3a solid;
+}
+
+#searchwidget{
+  width: 100%;
+  height: 80px;
+  line-height: 80px;
+  margin: 0 auto 0 auto;
+  text-align: center;
+}
+
+
+.texto_buscar{
+  font-family: TeXGyreAdventorRegular, Verdana, Sans-Serif;
+  font-size: 1.6em;
+  font-weight: bold;
+  text-shadow: 0px 1px 1px white;
+}
+
+#searchbox{
+  width: 230px;
+  height: 25px;    
+  border: 1px #bdbdbd solid;
+  padding: 2px;
+  box-shadow: inset 0px 2px 2px #ECECEC,0px 1px 1px white;
+  font-family: TeXGyreAdventorRegular, Verdana, Sans-Serif;
+  font-size: 1.1em;
+}
+
+
+#container{
+	width: 100%;
+	height: 100%;
+}
+
+#searchresults{
+	text-decoration:none;
+}
+
+#item{
+  width: 90%;  
+  border-radius: 5px;  
+  background-color: #F9F9F9;
+  background-image: -webkit-linear-gradient(top,white,#F7F7F7);
+  background-image: -moz-linear-gradient(top,white,#F7F7F7);
+  background-image: -ms-linear-gradient(top,white,#F7F7F7);
+  background-image: -o-linear-gradient(top,white,#F7F7F7);
+  background-image: linear-gradient(top,white,#F7F7F7);
+  padding: 5px;  
+  border: 1px solid #C4C4C4;
+  margin: 10px auto;
+  font-family: TeXGyreAdventorRegular, Verdana, Tahoma, sans-serif;
+}
+
+.logo{
+	width: 50px;
+	height: 50px;
+}
+
+.titulo_item{
+  font-size: 0.9em;
+  font-weight: bold;
+  color: #6d0019;
+  text-decoration: none;
+}
+
+.titulo_item:hover{
+  color: #a90329;  
+}
+
+.texto_descripcion{
+	font-size: 0.7em;
+	color: #666;
+}
+
+#footer{
+	width: 100%;
+	height: 40px;
+	background-color: #000;
+}

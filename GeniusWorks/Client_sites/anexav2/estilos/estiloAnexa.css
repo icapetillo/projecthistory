@@ -1,0 +1,62 @@
+.enlaces {
+color:#EFB22D;
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:10px;
+font-weight:bold;
+text-decoration:none;
+}
+
+.enlaces:hover {
+color:#EFB22D;
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:10px;
+font-weight:bold;
+text-decoration:underline;
+}
+
+.avisos {
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:10px;
+color:#003399;
+}
+
+.navega {
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:10px;
+font-weight:bold;
+text-decoration:none;
+color:#FFFFFF;
+}
+
+.navega:hover {
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:10px;
+font-weight:bold;
+color:#FFFFFF;
+text-decoration:underline;
+}
+
+.navegafooter {
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:10px;
+font-weight:bold;
+text-decoration:none;
+color:#990000;
+}
+
+.navegafooter:hover {
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:10px;
+font-weight:bold;
+text-decoration:underline;
+color:#990000;
+}
+
+
+.footer
+{
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:10px;
+font-weight:bold;
+color:#FFFFFF;
+}

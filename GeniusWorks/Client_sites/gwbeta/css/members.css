@@ -1,0 +1,96 @@
+@font-face {
+    font-family: 'OswaldBold';
+    src: url('../fonts/Oswald-Bold-webfont.eot');
+    src: url('../fonts/Oswald-Bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/Oswald-Bold-webfont.woff') format('woff'),
+         url('../fonts/Oswald-Bold-webfont.ttf') format('truetype'),
+         url('../fonts/Oswald-Bold-webfont.svg#OswaldBold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    }
+
+
+@font-face {
+    font-family: 'TeXGyreAdventorRegular';
+    src: url('../fonts/texgyreadventor-regular-webfont.eot');
+    src: url('../fonts/texgyreadventor-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/texgyreadventor-regular-webfont.woff') format('woff'),
+         url('../fonts/texgyreadventor-regular-webfont.ttf') format('truetype'),
+         url('../fonts/texgyreadventor-regular-webfont.svg#TeXGyreAdventorRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+.memberName{
+	color:#009800;
+	font-family: OswaldBold;
+	font-size: 2.3em;
+	text-align: left;
+}
+
+.memberPosition{
+	color:#005e00;
+	font-family: TeXGyreAdventorRegular, Verdana;
+	font-size: 1.3em;
+	text-align: left;
+}
+
+a,
+.memberTwitter{
+	color:#005e00;
+	font-family: TeXGyreAdventorRegular, Verdana;
+	font-size: 0.8em;
+	text-align: left;
+	text-decoration: none;
+}
+
+a:hover{
+	font-family: TeXGyreAdventorRegular, Verdana;
+	text-align: left;
+}
+
+.memberSectionTitle{
+	border-bottom:2px dotted #d4d4d4;
+	color:#005e00;	
+	font-family:TeXGyreAdventorRegular, Verdana;
+	font-size:14px;
+	font-weight:bold;
+	height:20px;
+	text-align: left;
+	width:150px;	
+}
+
+.memberSectionContent{
+	color:#666;	
+	font-family:TeXGyreAdventorRegular, Verdana;
+	font-size:12px;	
+	margin-top: 5px;
+	text-align: justify;
+}
+
+.botones{
+	border: 1px #005e00 solid;
+	background-color: #005e00;
+	color: #fff;
+	width: auto;
+	height: 20px;	
+	line-height: 40px;	
+	padding: 7px 20px 7px 20px;
+	font-family: TeXGyreAdventorRegular, Verdana;
+	text-decoration: none;	
+	font-size: 0.8em;
+}
+
+.botones:hover{	
+	background-color: #009800;
+	-webkit-transition-property: background-color;
+	-webkit-transition-duration:.2s;
+	-webkit-transition-timing-function: ease, ease, linear, linear;
+	-moz-transition-property: background-color, color;
+	-moz-transition-duration:.2s;
+	-moz-transition-timing-function: ease, ease, linear, linear;
+	-o-transition-property: background-color, color;
+	-o-transition-duration:.2s;
+	-o-transition-timing-function: ease, ease, linear, linear;
+}

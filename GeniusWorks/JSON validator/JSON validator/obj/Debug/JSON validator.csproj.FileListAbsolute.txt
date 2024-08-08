@@ -1,0 +1,18 @@
+C:\Users\Israel\source\repos\JSON validator\JSON validator\bin\Debug\JSON validator.exe.config
+C:\Users\Israel\source\repos\JSON validator\JSON validator\bin\Debug\JSON validator.exe
+C:\Users\Israel\source\repos\JSON validator\JSON validator\bin\Debug\JSON validator.pdb
+C:\Users\Israel\source\repos\JSON validator\JSON validator\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Israel\source\repos\JSON validator\JSON validator\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Israel\source\repos\JSON validator\JSON validator\obj\Debug\JSON validator.csprojAssemblyReference.cache
+C:\Users\Israel\source\repos\JSON validator\JSON validator\obj\Debug\JSON_validator.Properties.Resources.resources
+C:\Users\Israel\source\repos\JSON validator\JSON validator\obj\Debug\JSON validator.csproj.GenerateResource.cache
+C:\Users\Israel\source\repos\JSON validator\JSON validator\obj\Debug\JSON validator.csproj.CopyComplete
+C:\Users\Israel\source\repos\JSON validator\JSON validator\obj\Debug\JSON validator.exe
+C:\Users\Israel\source\repos\JSON validator\JSON validator\obj\Debug\JSON validator.pdb
+C:\Users\Israel\source\repos\JSON validator\JSON validator\obj\Debug\JSON_validator.frmMain.resources
+C:\Users\Israel\source\repos\JSON validator\JSON validator\bin\Debug\Microsoft.Azure.KeyVault.dll
+C:\Users\Israel\source\repos\JSON validator\JSON validator\bin\Debug\Microsoft.Azure.KeyVault.WebKey.dll
+C:\Users\Israel\source\repos\JSON validator\JSON validator\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.dll
+C:\Users\Israel\source\repos\JSON validator\JSON validator\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\Users\Israel\source\repos\JSON validator\JSON validator\bin\Debug\Microsoft.Rest.ClientRuntime.xml
+C:\Users\Israel\source\repos\JSON validator\JSON validator\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.xml

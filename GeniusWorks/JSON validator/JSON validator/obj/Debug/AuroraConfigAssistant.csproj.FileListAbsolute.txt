@@ -1,0 +1,37 @@
+C:\Users\Israel\source\repos\JSON validator\JSON validator\bin\Debug\AuroraConfigAssistant.exe.config
+C:\Users\Israel\source\repos\JSON validator\JSON validator\bin\Debug\AuroraConfigAssistant.exe
+C:\Users\Israel\source\repos\JSON validator\JSON validator\bin\Debug\AuroraConfigAssistant.pdb
+C:\Users\Israel\source\repos\JSON validator\JSON validator\bin\Debug\Microsoft.Azure.KeyVault.dll
+C:\Users\Israel\source\repos\JSON validator\JSON validator\bin\Debug\Microsoft.Azure.KeyVault.WebKey.dll
+C:\Users\Israel\source\repos\JSON validator\JSON validator\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.dll
+C:\Users\Israel\source\repos\JSON validator\JSON validator\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\Users\Israel\source\repos\JSON validator\JSON validator\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Israel\source\repos\JSON validator\JSON validator\bin\Debug\Microsoft.Rest.ClientRuntime.xml
+C:\Users\Israel\source\repos\JSON validator\JSON validator\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.xml
+C:\Users\Israel\source\repos\JSON validator\JSON validator\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Israel\source\repos\JSON validator\JSON validator\obj\Debug\AuroraConfigAssistant.csprojAssemblyReference.cache
+C:\Users\Israel\source\repos\JSON validator\JSON validator\obj\Debug\JSON_validator.frmMain.resources
+C:\Users\Israel\source\repos\JSON validator\JSON validator\obj\Debug\JSON_validator.Properties.Resources.resources
+C:\Users\Israel\source\repos\JSON validator\JSON validator\obj\Debug\AuroraConfigAssistant.csproj.GenerateResource.cache
+C:\Users\Israel\source\repos\JSON validator\JSON validator\obj\Debug\AuroraConfigAssistant.csproj.CopyComplete
+C:\Users\Israel\source\repos\JSON validator\JSON validator\obj\Debug\AuroraConfigAssistant.exe
+C:\Users\Israel\source\repos\JSON validator\JSON validator\obj\Debug\AuroraConfigAssistant.pdb
+E:\Visual Studio Projects\JSON validator\JSON validator\bin\Debug\AuroraConfigAssistant.exe.config
+E:\Visual Studio Projects\JSON validator\JSON validator\bin\Debug\AuroraConfigAssistant.exe
+E:\Visual Studio Projects\JSON validator\JSON validator\bin\Debug\AuroraConfigAssistant.pdb
+E:\Visual Studio Projects\JSON validator\JSON validator\bin\Debug\Microsoft.Azure.KeyVault.dll
+E:\Visual Studio Projects\JSON validator\JSON validator\bin\Debug\Microsoft.Azure.KeyVault.WebKey.dll
+E:\Visual Studio Projects\JSON validator\JSON validator\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.dll
+E:\Visual Studio Projects\JSON validator\JSON validator\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+E:\Visual Studio Projects\JSON validator\JSON validator\bin\Debug\Newtonsoft.Json.dll
+E:\Visual Studio Projects\JSON validator\JSON validator\bin\Debug\Microsoft.Rest.ClientRuntime.xml
+E:\Visual Studio Projects\JSON validator\JSON validator\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.xml
+E:\Visual Studio Projects\JSON validator\JSON validator\bin\Debug\Newtonsoft.Json.xml
+E:\Visual Studio Projects\JSON validator\JSON validator\obj\Debug\AuroraConfigAssistant.csprojAssemblyReference.cache
+E:\Visual Studio Projects\JSON validator\JSON validator\obj\Debug\JSON_validator.frmMain.resources
+E:\Visual Studio Projects\JSON validator\JSON validator\obj\Debug\JSON_validator.Properties.Resources.resources
+E:\Visual Studio Projects\JSON validator\JSON validator\obj\Debug\AuroraConfigAssistant.csproj.GenerateResource.cache
+E:\Visual Studio Projects\JSON validator\JSON validator\obj\Debug\AuroraConfigAssistant.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\JSON validator\JSON validator\obj\Debug\AuroraConfigAssistant.csproj.CopyComplete
+E:\Visual Studio Projects\JSON validator\JSON validator\obj\Debug\AuroraConfigAssistant.exe
+E:\Visual Studio Projects\JSON validator\JSON validator\obj\Debug\AuroraConfigAssistant.pdb

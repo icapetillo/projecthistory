@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NRukPCavw2WSN2etB32qlt2USRVU88W5ogeQZFAbzTbtpnRUjpZT5pR+rDQRQio+GPSVQWJh2WjTb1yBoglH2A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\icaps\\source\\repos\\MOVEitClientProvisioningTool\\MOVEitClientProvisioningTool\\MOVEitClientProvisioningTool.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\icaps\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
